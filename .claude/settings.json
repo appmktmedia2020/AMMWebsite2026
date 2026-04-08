@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm ls:*)",
+      "Bash(grep -i \"index\\\\|i\\\\}$\")",
+      "Bash(grep -n \"Disallow.*\\\\.js\\\\$\" /Users/sethnordgren/Downloads/website/public/robots.txt)",
+      "Bash(npm uninstall:*)"
+    ]
+  }
+}

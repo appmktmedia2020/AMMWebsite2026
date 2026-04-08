@@ -1,0 +1,2982 @@
+// Auto-generated location data from CSV
+export const locations = [
+  {
+    "key": "proctorville-oh",
+    "slug": "/websites/proctorville-oh",
+    "title": "Website Design Services in Proctorville, OH",
+    "h1": "Website Design in Proctorville, OH",
+    "subheading": "Build a Proctorville Website That Works Like Your Best Employee",
+    "heroText": "Your website should represent your business just as professionally as you do. We create high-performing websites for Proctorville businesses that establish credibility, improve visibility, and convert visitors into loyal customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Proudly Based in Southern Ohio"
+    ],
+    "stakesSentence": "Without a strong website, customers may never discover your business. Strategic website design ensures your Proctorville company stands out when it matters most.",
+    "h2": "Our Proctorville Website Solution",
+    "h2Sub": "We Build Proctorville Websites Designed to Convert",
+    "h2Text": "Your website should function as a reliable sales tool - even when your business is closed.",
+    "features": [
+      "Custom website design aligned with your Proctorville brand",
+      "Local SEO optimization for Proctorville and nearby markets",
+      "Responsive, fast, and secure websites",
+      "Simple navigation that encourages action",
+      "Marketing and advertising integrations",
+      "Transparent reporting and ongoing support"
+    ],
+    "h3": "Your Proctorville Website Experts - Community Focused",
+    "h3Text": "Appalachian Marketing & Media has helped businesses across Proctorville and Southern Ohio grow online since 2020. Our local team understands the importance of visibility, trust, and authenticity in small communities.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Proctorville Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the community, values, and customers you serve"
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We guide you through the process so every decision makes sense."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe success starts with listening."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Having them manage our social media has been a huge relief for our small in-house team and a breath of fresh air! I’m excited to continue working with AMM and expand into other areas of the Chamber’s business. It was important for us to partner with a small business, and we love that community is such a big part of who they are. Highly recommend!",
+        "name": "— Jared, Burnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "— Brandy and Charlie, Advanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "— Caroline, Temple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer to Proctorville Businesses",
+    "services": {
+      "mp": "Your complete marketing team for less than the cost of one full-time hire. Our marketing packages combine strategy, execution, and ongoing support to help Proctorville businesses grow consistently and authentically.",
+      "sm": "Authentic community-focused content that builds trust, engagement, and brand awareness with your Proctorville audience across the platforms that matter most.",
+      "wd": "High-converting websites built to reflect your brand, improve user experience, and support long-term growth for your Proctorville business.",
+      "ad": "Targeted digital advertising campaigns designed to reach the right customers at the right time while delivering measurable, trackable results.",
+      "seo": "Local SEO strategies built to increase visibility in Proctorville search results, helping your business get found by customers actively looking for your services.",
+      "gd": "Professional branding and visual assets that help your Proctorville business stand out and communicate clearly across digital and print platforms."
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we help Proctorville businesses grow"
+    ]
+  },
+  {
+    "key": "lucasville-oh",
+    "slug": "/websites/lucasville-oh",
+    "title": "Website Design Services in Lucasville, Ohio",
+    "h1": "Website Design In Lucasville, OH",
+    "subheading": "Design a Website That Speaks to Your Lucasville Audience",
+    "heroText": "Your site should be more than a URL; it should connect and convert. We make Lucasville websites that truly reach local audiences.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Supported",
+      "Rooted in Southern Ohio"
+    ],
+    "stakesSentence": "Make sure your target customers find you before competitors do by being easy to locate online.",
+    "h2": "Our Lucasville Website Solution",
+    "h2Sub": "We Create Lucasville Websites Designed for Conversion",
+    "h2Text": "Your website needs to be your most reliable salesperson - accessible anytime, ready to connect and convert visitors into customers at any moment.",
+    "features": [
+      "Websites Designed for Local Success - True representation of your Lucasville business",
+      "SEO optimized specifically for Lucasville local search dominance",
+      "Mobile-friendly, fast, and secure to keep your customers happy",
+      "User-friendly to turn visitors into regulars",
+      "Easy social media and ad connections",
+      "Ongoing reports and support"
+    ],
+    "h3": "Your Lucasville Website Experts - Community-Focused",
+    "h3Text": "Since starting in 2020, Appalachian Marketing & Media has been supporting businesses with digital presence. From a duo to a team of professionals, we stay true to Appalachia's values.",
+    "h4": "Why We’re Lucasville’s Choice for Websites",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Understanding",
+        "text": "We’re familiar with local values and customer needs."
+      },
+      {
+        "title": "Knowledge Sharing",
+        "text": "We teach how each website feature benefits your business."
+      },
+      {
+        "title": "Personal Approach",
+        "text": "We believe in personal interactions over impersonal contracts."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Lucasville Businesses:",
+    "services": {
+      "mp": "Marketing Packages - Tailored marketing solutions that maximize Lucasville’s local strengths for small businesses.",
+      "sm": "Social Media - Cultivate a sense of community in Lucasville, where engagement and authenticity are valued.",
+      "wd": "Website Development - Build sites that reflect Lucasville’s down-to-earth nature and convert visitors to loyal customers.",
+      "ad": "Advertising - Implement advertising strategies that resonate with Lucasville’s residents.",
+      "seo": "SEO Services - Capture Lucasville’s search attention with authentic, local-focused content.",
+      "gd": "Graphic Design - Visuals that celebrate Lucasville’s identity and tradition."
+    },
+    "h7": "Let's Begin With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in-person or virtual)",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Discuss your objectives and obstacles",
+      "Discover how we can help your business grow authentically"
+    ]
+  },
+  {
+    "key": "seaman-oh",
+    "slug": "/websites/seaman-oh",
+    "title": "Website Design Services in Seaman, Ohio",
+    "h1": "Website Design In Seaman, OH",
+    "subheading": "Build a Seaman Website That Works Around the Clock",
+    "heroText": "Your website should do more than list your hours. It should answer questions, build trust, and bring in new business while you’re busy serving customers. We design custom Seaman websites that feel local and work hard behind the scenes.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "If your Seaman business can’t be found or doesn’t look trustworthy online, customers will choose the competition that shows up first.",
+    "h2": "Our Seaman Website Solution",
+    "h2Sub": "We Build Seaman Websites Built for Real-World Results",
+    "h2Text": "Each Seaman website we build is crafted to reflect who you are, support your customers, and turn curious visitors into paying clients.",
+    "features": [
+      "Websites that capture your authentic Seaman story and brand",
+      "SEO-focused builds that help you rank in Seaman and Adams County searches",
+      "Mobile-optimized, fast-loading, and secure sites that keep visitors engaged",
+      "Clear, easy-to-use layouts that guide people to call, visit, or request a quote",
+      "Tight integration with your social media, reviews, and advertising platforms",
+      "Helpful analytics and ongoing support so you always know how your site is working for you"
+    ],
+    "h3": "Your Seaman Website Experts - Appalachian-Owned and Operated",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses in Seaman and across Appalachian Ohio to build websites that actually generate results. From a two-person startup to a 12+ person local team, we’ve kept one commitment: serving our communities with honest, effective marketing.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Seaman Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand what matters to Seaman residents and rural Adams County; reputation, relationships, and reliability."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We show you how content, design, and SEO all work together, so you can make confident decisions about your marketing."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe genuine partnerships start with conversations, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Seaman Businesses",
+    "services": {
+      "mp": "Marketing Packages: A full marketing department for less than one full-time salary",
+      "sm": "Social Media: Story-driven content that feels like Seaman, not a big-city template",
+      "wd": "Website Development: Conversion-ready sites that still honor your small-town brand",
+      "ad": "Advertising: Smart, targeted campaigns with clear performance reporting",
+      "seo": "SEO Services: Local SEO tuned to how Seaman and Adams County customers search",
+      "gd": "Graphic Design: On-brand visuals, signage, and collateral that reinforce your identity"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Share your business goals and challenges",
+      "Learn how we can help your Peebles business grow authentically, online and off"
+    ]
+  },
+  {
+    "key": "jackson-oh",
+    "slug": "/websites/jackson-oh",
+    "title": "Website Design Services in Jackson, Ohio",
+    "h1": "Website Design In Jackson, OH",
+    "subheading": "Build a Jackson Website That Works Like Your Best Employee",
+    "heroText": "Your website should be more than a digital billboard; it should be your right-hand business tool. We’ll create a Jackson site that feels familiar yet fresh, ready to support your growth.",
+    "values": [
+      "5 Years of Proven Success",
+      "Serving 200+ Local Businesses",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you – if they could just find you.",
+    "h2": "Our Jackson Website Solution",
+    "h2Sub": "We Build Ashland Websites Designed to Convert",
+    "h2Text": "Your website needs to be your most reliable salesperson - accessible anytime, ready to connect and convert visitors into customers at any moment.",
+    "features": [
+      "Websites that authentically reflect your Jackson brand",
+      "SEO tailored for Jackson’s local search prominence",
+      "Mobile-optimized, fast, and secure for superior user satisfaction",
+      "Simple navigation and layout that turns visitors into paying clients",
+      "Seamless integration with social media and marketing efforts",
+      "Transparent analytics and continuous support for complete clarity"
+    ],
+    "h3": "Your Jackson Website Experts - Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been building local websites for businesses in Appalachian Ohio. Founded by Ryan and Audrey Schiesser while students at Shawnee State University, we’ve grown from a two-person team to 12+ local experts serving 200+ clients — all without losing sight of who we are or the communities we serve.",
+    "h4": "Why Trust Us for Your Jackson Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We comprehend the values and audience you serve."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain how each design choice supports your business objectives."
+      },
+      {
+        "title": "Relationship Oriented",
+        "text": "We believe true partnerships begin with genuine conversations, not merely with signing contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Jackson Businesses:",
+    "services": {
+      "mp": "Comprehensive Marketing Packages - Full marketing teams for the price of a single employee",
+      "sm": "Social Media Management - Building communities that drive business growth",
+      "wd": "Website Development - Designing sites that convert while maintaining your brand identity",
+      "ad": "Targeted Advertising - Campaigns that deliver measurable results",
+      "seo": "SEO Services - Achieve local search leadership with authentic content",
+      "gd": "Graphic Design - Craft professional visuals that narrate your unique story"
+    },
+    "h7": "Let's Begin With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in-person or virtual)",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Discuss your objectives and obstacles",
+      "Discover how we can help your business grow authentically"
+    ]
+  },
+  {
+    "key": "stockdale-oh",
+    "slug": "/websites/stockdale-oh",
+    "title": "Website Design Services in Stockade, OH",
+    "h1": "Website Design in Stockade, OH",
+    "subheading": "Build a Stockade Website That Works Like Your Best Employee",
+    "heroText": "Your website should work just as hard as you do. We design professional websites for Stockade businesses that improve visibility, credibility, and customer engagement.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Proudly Based in Southern Ohio"
+    ],
+    "stakesSentence": "In smaller communities like Stockade, visibility and trust matter. A strong website ensures your business is easy to find and easy to choose.",
+    "h2": "Our Stockade Website Solution",
+    "h2Sub": "We Build Stockade Websites Designed to Convert",
+    "h2Text": "Your website should consistently support your business - even when you’re busy running it.",
+    "features": [
+      "Custom website design tailored to Stockade businesses",
+      "Local SEO optimization for Stockade and nearby areas",
+      "Secure, mobile-friendly, and fast websites",
+      "Straightforward navigation that converts visitors",
+      "Integration with social media and digital marketing",
+      "Analytics and ongoing guidance"
+    ],
+    "h3": "Your Stockade Website Experts - Community Focused",
+    "h3Text": "Appalachian Marketing & Media has proudly served Stockade and Southern Ohio businesses since 2020. Our team understands the unique needs of small-town businesses and builds websites that reflect that authenticity.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Stockade Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand small communities and their customers."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We make sure you understand how your website helps your business grow."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We value trust, communication, and transparency."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer to Stockade Businesses",
+    "services": {
+      "mp": "Marketing Packages:\nStrategic marketing support designed to help Stockdale businesses grow without the overhead of a full-time internal team. Everything works together to keep your marketing consistent and effective.",
+      "sm": "Social Media:\nGenuine social media content that strengthens brand presence and builds real connections within the Stockdale community.",
+      "wd": "Website Development:\nHigh-performing websites designed to support Stockdale businesses with clear messaging, strong usability, and conversion-focused layouts.",
+      "ad": "Advertising:\nTargeted advertising campaigns created to reach Stockdale customers efficiently and produce trackable, meaningful results.",
+      "seo": "SEO Services:\nLocal SEO services that help Stockdale businesses appear in search results and map listings where customers are already looking.",
+      "gd": "Graphic Design:\nProfessional visual design that helps Stockdale businesses communicate clearly and stand out across all marketing channels."
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Talk through your goals and challenges",
+      "Learn how we support Stockade businesses"
+    ]
+  },
+  {
+    "key": "peebles-oh",
+    "slug": "/websites/peebles-oh",
+    "title": "Website Design Services in Peebles, Ohio",
+    "h1": "Website Design In Peebles, OH",
+    "subheading": "Build a Peebles Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just sit online. It should welcome visitors, answer questions, and bring new customers through your doors. We design custom Peebles websites that feel local, look professional, and function flawlessly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are winning over customers who would naturally choose you; if they could actually find you online.",
+    "h2": "Our Peebles Website Solution",
+    "h2Sub": "We Build Peebles Websites Designed to Convert",
+    "h2Text": "Every Peebles website we create is built to sound like you, serve your neighbors, and turn online clicks into real conversations and customers.",
+    "features": [
+      "Websites crafted to represent your authentic Peebles brand",
+      "SEO-optimized specifically for Peebles and Adams County local search",
+      "Mobile-friendly, fast, and secure to keep your customers confident and engaged",
+      "Easy-to-navigate layouts that guide visitors straight to calling, booking, or visiting",
+      "Seamless integration with your social media, Google Business Profile, and advertising",
+      "Clear analytics and ongoing support so you always know what’s working and why"
+    ],
+    "h3": "Your Peebles Website Experts - Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been building high-performing websites for businesses in Peebles and throughout Appalachian Ohio. We’ve grown from a two-person team to 12+ local experts serving 200+ clients, without losing sight of who we are or the small towns we serve.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Peebles Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the people, values, and rural character that make Peebles unique, and we design your site to reflect that."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain why each design, SEO, and content choice supports your business goals, so you understand your investment."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We start with real conversation (often over coffee), not confusing jargon or high-pressure pitches."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "— Caroline, Temple Tots"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Peebles Businesses",
+    "services": {
+      "mp": "Marketing Packages: A full marketing team for less than the cost of one full-time hire",
+      "sm": "Social Media: Community-focused content that turns followers into loyal customers",
+      "wd": "Website Development: Conversion-focused sites that still feel true to your Peebles roots",
+      "ad": "Advertising: Targeted campaigns with trackable ROI and clear reporting",
+      "seo": "SEO Services: Local search visibility in Peebles and surrounding Adams County communities",
+      "gd": "Graphic Design: Professional, on-brand visuals that tell your authentic story"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Share your business goals and challenges",
+      "Learn how we can help your Peebles business grow authentically, online and off"
+    ]
+  },
+  {
+    "key": "southwebster-oh",
+    "slug": "/websites/southwebster-oh",
+    "title": "Website Design Services in South Webster, OH",
+    "h1": "Website Design in South Webster, OH",
+    "subheading": "A South Webster Website Built to Work as Hard as You Do",
+    "heroText": "In a small community like South Webster, reputation matters, and so does visibility. Your website should reinforce both. We design custom websites that help South Webster businesses stand out online and earn more local customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "The right website doesn’t just represent your business, it grows it.",
+    "h2": "Our South Webster Website Services",
+    "h2Sub": "We focus on creating strategic, SEO-driven websites that turn traffic into revenue.",
+    "h2Text": "We create websites that do more than look professional, they drive measurable growth.",
+    "features": [
+      "Custom website design tailored to your South Webster audience",
+      "Local SEO optimization for Scioto County searches",
+      "Mobile-first, fast, and secure website builds",
+      "Conversion-focused layouts and messaging",
+      "Integrated marketing campaigns",
+      "Performance tracking and ongoing support"
+    ],
+    "h3": "Your South Webster Website Experts - Homegrown and Community-Focused",
+    "h3Text": "Appalachian Marketing & Media was founded in Southern Ohio with a mission: help local businesses grow without losing their identity. We’ve grown into a full-service marketing agency, but we remain deeply community-focused.\nWe understand the local economy, the customers, and the competition.",
+    "h4": "Why South Webster Businesses Work With Us",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We care about helping local businesses succeed."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "Every design and marketing decision has a measurable purpose."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We build trust through consistent communication and transparency."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Marketing Services for South Webster Businesses",
+    "services": {
+      "mp": "Full Marketing Packages: A Complete Outsourced Marketing Department",
+      "sm": "Social Media Management: Build Authentic Engagement That Converts",
+      "wd": "Website Development: High-Converting Sites That Stay True to Your Brand",
+      "ad": "Digital Advertising: Targeted Google & Meta Campaigns",
+      "seo": "Local SEO Services: Rank Higher in South Webster and Surrounding Communities",
+      "gd": "Graphic Design: Professional Branding and Print Materials"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in-person or virtual)",
+      "Share your goals and challenges",
+      "Discover how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "oakhill-oh",
+    "slug": "/websites/oakhill-oh",
+    "title": "Website Design Services in Oak Hill, Ohio",
+    "h1": "Website Design In Oak Hill, OH",
+    "subheading": "Build an Oak Hill Website That Works as Hard as You Do",
+    "heroText": "Your website should feel like an extension of your Oak Hill business; welcoming, trustworthy, and ready to help customers 24/7. We design custom Oak Hill websites that honor local values while using modern best practices to drive growth.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "If your Oak Hill website is outdated or missing entirely, people are choosing other options before they ever learn about you.",
+    "h2": "Our Oak Hill Website Solution",
+    "h2Sub": "We Build Oak Hill Websites Focused on Connection and Conversion",
+    "h2Text": "Every Oak Hill website we build is designed to reflect your voice, serve your neighbors, and turn online visitors into loyal customers.",
+    "features": [
+      "Websites that highlight your authentic Oak Hill brand and story",
+      "SEO strategy tuned for Oak Hill and Jackson County local search results",
+      "Fast, mobile-responsive, and secure builds that earn customer trust",
+      "Thoughtful navigation that helps visitors find what they need, and take action quickly",
+      "Integration with your social media, reviews, and digital advertising",
+      "Easy-to-understand analytics and continued support so you’re never guessing"
+    ],
+    "h3": "Your Oak Hill Website Experts - Appalachian-Owned and Operated",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has helped Oak Hill and Appalachian Ohio businesses turn simple websites into real growth engines. We’ve grown with our communities; from a two-person idea to a 12+ person local team, while keeping our focus on authenticity and measurable results.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Oak Hill Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand Oak Hill’s culture, customers, and expectations, and build websites that feel familiar and trustworthy."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We don’t just hand you a finished site, we teach you what it’s doing and how it supports your long-term goals."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe genuine partnerships start with conversations, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Oak Hill Businesses",
+    "services": {
+      "mp": "Marketing Packages: Ongoing marketing support without the cost of a full internal team",
+      "sm": "Social Media: Community-minded content that matches Oak Hill’s personality",
+      "wd": "Website Development: High-converting sites that still stay true to your Appalachian brand",
+      "ad": "Advertising: Targeted online campaigns with clear, measurable ROI",
+      "seo": "SEO Services: Local search strategies to help Oak Hill businesses show up where customers are looking",
+      "gd": "Graphic Design: Professional branding and visuals that elevate your presence online and offline"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Share your business goals and challenges",
+      "Learn how we can help your Peebles business grow authentically, online and off"
+    ]
+  },
+  {
+    "key": "bentonville-oh",
+    "slug": "/websites/bentonville-oh",
+    "title": "Website Design Services in Bentonville, Ohio",
+    "h1": "Website Design In West Bentonville, OH",
+    "subheading": "Build a Bentonville Website That Works Like Your Best Employee",
+    "heroText": "Your website should reflect your values and generate real results. We create custom Bentonville websites that feel authentic and function as powerful sales tools.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you, if they could just find you.",
+    "h2": "Our Bentonville Website Solution",
+    "h2Sub": "We Build Bentonville Websites Designed to Convert",
+    "h2Text": "We help Bentonville businesses establish a strong online presence that attracts local customers and builds long-term growth.",
+    "features": [
+      "Websites crafted to represent your authentic Bentonville brand",
+      "SEO optimized specifically for Bentonville and surrounding searches",
+      "Mobile-friendly, fast, and secure for today’s customers",
+      "Clean, strategic layouts designed for conversions",
+      "Integration with your social media and digital advertising",
+      "Ongoing analytics and support so you can grow with confidence"
+    ],
+    "h3": "Your Bentonville Website Experts, Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has served businesses across Southern Ohio, including Bentonville and nearby communities. We’ve expanded our team while keeping our mission simple: help local businesses grow authentically.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Bentonville Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand what it takes to grow a business in a tight-knit rural community."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We equip you with knowledge so you’re never guessing about your marketing strategy."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe collaboration leads to stronger long-term success."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Bentonville Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Strategic support without hiring in-house",
+      "sm": "Social Media: Meaningful engagement that builds trust",
+      "wd": "Website Development: Conversion-focused design",
+      "ad": "Advertising: Targeted lead generation campaigns",
+      "seo": "SEO Services: Higher rankings in Bentonville searches",
+      "gd": "Graphic Design: Professional branding assets"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "piketon-oh",
+    "slug": "/websites/piketon-oh",
+    "title": "Website Design Services in Piketon, OH",
+    "h1": "Website Design In Piketon, OH",
+    "subheading": "Build a Piketon Website That Works Like Your Best Employee",
+    "heroText": "A truly effective website does more than display information - it captivates and nurtures business growth. Our Piketon-focused design services are crafted to resonate locally and function seamlessly.",
+    "values": [
+      "5 Years of Proven Impact",
+      "Serving 200+ Local Businesses",
+      "Committed to the Heart of Southern Ohio"
+    ],
+    "stakesSentence": "Neglecting effective digital marketing means potential clients go to competitors who could be yours if they could just find you.",
+    "h2": "Our Piketon Website Approach",
+    "h2Sub": "Piketon Websites Engineered for Conversion",
+    "h2Text": "Capture your brand's uniqueness with our expertise.",
+    "features": [
+      "Reflect your brand’s authentic Piketon identity",
+      "Tailored SEO for Piketon's competitive market",
+      "Fast, mobile-first, secure designs that meet customer expectations",
+      "User-centered navigation encouraging conversions",
+      "Social media and marketing alignment for cohesive strategy",
+      "Full analytics and continuous support"
+    ],
+    "h3": "Piketon's Digital Partner - Community-Driven Dedication",
+    "h3Text": "Since starting in 2020, Appalachian Marketing & Media has been supporting businesses with digital presence. From a duo to a team of professionals, we stay true to Appalachia's values.",
+    "h4": "Opt for Appalachian Marketing & Media for Your Piketon Website",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Knowledge",
+        "text": "Embracing local traditions and preferences."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "Exemplified Growth via Local Partnerships."
+      },
+      {
+        "title": "Relationship Building",
+        "text": "Creating connections beyond contracts."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Our Offerings for Piketon Businesses Include:",
+    "services": {
+      "mp": "Comprehensive Marketing - More than a package, a partnership",
+      "sm": "Social Media Development - Building communities that lead to sales",
+      "wd": "Effective Website Development - Aligning design with business success",
+      "ad": "Targeted Ad Campaigns -  Precision marketing with clear results",
+      "seo": "Local SEO Dominance - Authentic content driving visibility",
+      "gd": "Graphic Design Excellence -  Crafting imagery that resonates with your audience"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule your Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free consultative dialogue",
+      "Address your goals and challenges",
+      "Uncover authentic growth tactics"
+    ]
+  },
+  {
+    "key": "coalgrove-oh",
+    "slug": "/websites/coalgrove-oh",
+    "title": "Website Design Services  in Coal Grove, OH",
+    "h1": "Website Design in Coal Grove, OH",
+    "subheading": "Build a Coal Grove Website That Brings You More Customers",
+    "heroText": "If your website isn’t generating leads, it isn’t doing its job. We design high-performing websites for Coal Grove businesses that attract attention, rank in search engines, and convert visitors into real customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Neglecting effective digital marketing means potential clients go to competitors who could be yours if they could just find you.",
+    "h2": "Our Coal Grove Website Strategy",
+    "h2Sub": "Websites Designed for Visibility, Built for Conversions",
+    "h2Text": "We create websites that do more than look professional, they drive measurable growth.",
+    "features": [
+      "Custom-built sites tailored to Coal Grove businesses",
+      "SEO strategies focused on Lawrence County search terms",
+      "Mobile-optimized, secure, and fast-loading designs",
+      "Clear calls-to-action that encourage contact and inquiries",
+      "Integration with advertising and social media platforms",
+      "Ongoing optimization and analytics tracking"
+    ],
+    "h3": "Local Experts Serving Coal Grove",
+    "h3Text": "Appalachian Marketing & Media has helped businesses throughout Lawrence County and Southern Ohio grow online since 2020. We combine local understanding with proven marketing strategies to help small businesses compete, and win  online.\nWe don’t offer generic templates. We build strategic digital assets designed for your specific business and market.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Coal Grove Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the region and how customers search for services locally."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "You’ll understand what we’re building, why it matters, and how it impacts your revenue."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We build long-term relationships, not one-time transactions."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Marketing Services for Coal Grove Businesses",
+    "services": {
+      "mp": "Full Marketing Packages: A Complete Outsourced Marketing Department",
+      "sm": "Social Media Management: Build Authentic Engagement That Converts",
+      "wd": "Website Development: High-Converting Sites That Stay True to Your Brand",
+      "ad": "Digital Advertising: Targeted Google & Meta Campaigns",
+      "seo": "Local SEO Services: Rank Higher in Coal Grove and Surrounding Communities",
+      "gd": "Graphic Design: Professional Branding and Print Materials"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in-person or virtual)",
+      "Share your goals and challenges",
+      "Discover how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "crowncity-oh",
+    "slug": "/websites/crowncity-oh",
+    "title": "Website Design Services in Crown City, OH",
+    "h1": "Website Design in Crown City, OH",
+    "subheading": "Build a Crown City Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than simply exist; it should actively attract customers and support your business growth. We design custom websites for Crown City businesses that reflect your brand, connect with your community, and convert visitors into customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day without a strong online presence is another day potential customers find your competitors instead. A professional website ensures your Crown City business is visible, trustworthy, and easy to choose.",
+    "h2": "Our Crown City Website Solution",
+    "h2Sub": "We Build Crown City Websites Designed to Convert",
+    "h2Text": "Your website should work for you around the clock; educating visitors, building trust, and generating leads.",
+    "features": [
+      "Custom website designs tailored to Crown City businesses and local audiences",
+      "SEO-focused development for visibility in Crown City and surrounding areas",
+      "Fast-loading, mobile-friendly, and secure websites",
+      "User-friendly layouts that guide visitors toward action",
+      "Integration with social media, advertising, and digital marketing efforts",
+      "Clear analytics and ongoing support so you’re never in the dark"
+    ],
+    "h3": "Your Crown City Website Experts - Community Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses throughout Southern Ohio, including Crown City, to strengthen their online presence. Our team of 12+ local experts proudly serves over 200 businesses with strategies rooted in authenticity and community.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Crown City Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the values, customers, and business landscape of Southern Ohio."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain every decision so you understand how your website supports long-term growth."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We focus on meaningful partnerships, not one-size-fits-all solutions."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer to Crown City Businesses",
+    "services": {
+      "mp": "Marketing Packages: Ongoing marketing support without the cost of a full internal team",
+      "sm": "Social Media: Community-minded content that matches Oak Hill’s personality",
+      "wd": "Website Development: High-converting sites that still stay true to your Appalachian brand",
+      "ad": "Advertising: Targeted online campaigns with clear, measurable ROI",
+      "seo": "SEO Services: Local search strategies to help Oak Hill businesses show up where customers are looking",
+      "gd": "Graphic Design: Professional branding and visuals that elevate your presence online and offline"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (virtual or in person)",
+      "Discuss your goals and challenges",
+      "Discover how we help Crown City businesses grow authentically"
+    ]
+  },
+  {
+    "key": "newboston-oh",
+    "slug": "/websites/newboston-oh",
+    "title": "Website Design Services in New Boston, Ohio",
+    "h1": "Website Design In New Boston, OH",
+    "subheading": "Build a New Boston Website That Never Clocks Out",
+    "heroText": "Your website should be more than an online brochure. It should greet new visitors, answer questions, and drive sales - even while you’re busy serving customers along the Ohio River. We design custom New Boston websites that feel local and perform reliably.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "While you’re waiting to “get around” to your website, competitors are quietly winning over customers who would rather work with you - if you showed up where they’re searching.",
+    "h2": "Our New Boston Website Solution",
+    "h2Sub": "We Build New Boston Websites Designed to Convert",
+    "h2Text": "We bring together local insight and data-backed design so your New Boston website becomes your most reliable, always-available employee.",
+    "features": [
+      "Websites built to reflect your authentic New Boston brand and personality",
+      "SEO optimized specifically for New Boston and Scioto County local search",
+      "Mobile-first, fast, and secure so customers trust you from the first click",
+      "Simple, intuitive navigation that guides visitors straight to taking action",
+      "Connected with your social media, Google Business Profile, and ad campaigns",
+      "Transparent analytics and ongoing support so you always know what’s working"
+    ],
+    "h3": "Your New Boston Website Experts  Homegrown and Community-Focused",
+    "h3Text": "Appalachian Marketing & Media was founded just up the road in Southern Ohio in 2020. Since then, we’ve grown from a two-person startup into a 12+ person team serving over 200 local businesses in New Boston, Portsmouth, and across Appalachian Ohio.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your New Boston Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand New Boston’s unique mix of local shops, service providers, and regional traffic - and we design websites that speak to all of them."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain every recommendation - from homepage layout to SEO keywords - so your site stays aligned with your goals as you grow."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe marketing should start with a real conversation. Expect coffee, questions, and clear next steps - not pressure."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "— Brandy and Charlie, Advanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer New Boston Businesses",
+    "services": {
+      "mp": "Marketing Packages: Strategic marketing support for less than hiring in-house",
+      "sm": "Social Media: Local storytelling that builds trust and repeat business",
+      "wd": "Website Development: Purpose-built sites focused on leads and revenue",
+      "ad": "Advertising: Targeted digital campaigns you can actually measure",
+      "seo": "SEO Services: Local search strategies that help New Boston businesses stand out",
+      "gd": "Graphic Design: Clean, professional visuals that match your community roots"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Enjoy a free consultation, tailored to your preference",
+      "Talk through your goals and roadblocks",
+      "Discover how we can help your New Boston business grow authentically"
+    ]
+  },
+  {
+    "key": "wheelersburg-oh",
+    "slug": "/websites/wheelersburg-oh",
+    "title": "Website Design Services in Wheelersburg, Ohio",
+    "h1": "Website Design In Wheelersburg, OH",
+    "subheading": "Build a Wheelersburg Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just look nice - it should actively bring in new customers. We design custom Wheelersburg websites that reflect your local business and function seamlessly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you wait to invest in authentic marketing, your competitors are capturing the attention of customers who would naturally choose you - if only they could find you.",
+    "h2": "Our Wheelersburg Website Solution",
+    "h2Sub": "We Build Wheelersburg Websites Designed to Convert",
+    "h2Text": "Your website should be your hardest working salesperson - always online, always ready.",
+    "features": [
+      "Websites crafted to showcase your authentic Wheelersburg brand",
+      "SEO optimized specifically for Wheelersburg local search dominance",
+      "Mobile-friendly, fast, and secure to keep your customers engaged",
+      "Simple navigation and layout that turns visitors into paying clients",
+      "Integration with your social media, advertising, and marketing campaigns",
+      "Transparent analytics and ongoing support so you’re never left guessing"
+    ],
+    "h3": "Your Wheelersburg Website Experts - Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has helped businesses throughout Southern Ohio grow online. What started as a two-person team has expanded to 12+ local experts serving over 200 clients - and we’ve never lost sight of the communities we serve.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Wheelersburg Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the people, values, and customers of Southern Ohio"
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We guide you through every design choice so you understand how it helps your business grow."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe genuine partnerships start with conversations, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Having them manage our social media has been a huge relief for our small in-house team and a breath of fresh air! I’m excited to continue working with AMM and expand into other areas of the Chamber’s business. It was important for us to partner with a small business, and we love that community is such a big part of who they are. Highly recommend!",
+        "name": "— Jared, Burnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "— Brandy and Charlie, Advanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "— Caroline, Temple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Wheelersburg Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Your complete marketing team for less than one full-time hire",
+      "sm": "Social Media: Authentic community building that generates real business",
+      "wd": "Website Development: High-converting sites that stay true to your brand",
+      "ad": "Advertising: Targeted campaigns that deliver measurable results",
+      "seo": "SEO Services: Local search dominance with proven strategies",
+      "gd": "Graphic Design: Professional visuals that bring your story to life"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Share your business goals and challenges",
+      "Share your business goals and challenges",
+      "Discover how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "riogrande-oh",
+    "slug": "/websites/riogrande-oh",
+    "title": "Website Design Services in Rio Grande, Ohio",
+    "h1": "Website Design In Rio Grande, OH",
+    "subheading": "Build a Rio Grande Website That Works as Hard as You Do",
+    "heroText": "Your website should be working for you - engaging visitors, answering questions, and booking the next step. From small businesses to organizations connected to the University of Rio Grande, we design Rio Grande websites that feel local and perform at a high level.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "If your website is outdated - or non-existent - potential customers and students are choosing someone else simply because they find them first.",
+    "h2": "Our Rio Grande Website Solution",
+    "h2Sub": "We Build Rio Grande Websites Designed to Convert",
+    "h2Text": "We combine deep knowledge of Appalachian communities with modern web strategy so your Rio Grande website turns curious visitors into committed customers.",
+    "features": [
+      "Websites designed to showcase your authentic Rio Grande story",
+      "SEO tuned specifically for Rio Grande and Gallia County local searches",
+      "Fast, secure, and mobile-optimized so your site works on any device",
+      "Clear, user-focused navigation that guides visitors to call, book, or buy",
+      "Connected to your social channels, email marketing, and online ads",
+      "Straightforward reporting and ongoing support so you always know what’s happening"
+    ],
+    "h3": "Your Rio Grande Website Experts — Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses and organizations in Rio Grande and across Appalachian Ohio. What started as a two-person operation has grown into a 12+ person local team serving more than 200 clients - all while staying committed to our region’s culture and values. We understand how important community reputation is here, and we build websites that reinforce it.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Rio Grande Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We get the blend of small-town feel, regional traffic, and campus influence in Rio Grande - and we design websites that speak to all those audiences."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We’ll show you exactly how each page, button, and keyword supports your mission and bottom line, so your website never feels like a mystery."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We start with honest conversation, not confusing tech talk. We listen first, then build a plan tailored to your goals."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Rio Grande Businesses",
+    "services": {
+      "mp": "Marketing Packages: Flexible, done-for-you marketing for growing organizations",
+      "sm": "Social Media: Consistent, authentic content that fits your community",
+      "wd": "Website Development: Conversion-minded sites that still feel like “you”",
+      "ad": "Advertising: Smart targeting to reach the right people at the right time",
+      "seo": "SEO Services: Local and regional visibility for long-term growth",
+      "gd": "Graphic Design: Polished visuals that elevate your brand presence"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Talk through your goals and challenges",
+      "See how we can help your Rio Grande business grow authentically"
+    ]
+  },
+  {
+    "key": "manchester-oh",
+    "slug": "/websites/manchester-oh",
+    "title": "Website Design Services in Manchester, OH",
+    "h1": "Website Design in Manchester, OH",
+    "subheading": "Build a Manchester Website That Works Like Your Best Employee",
+    "heroText": "Your website should be a powerful extension of your business. We design custom websites for Manchester businesses that help you get found, build trust, and turn online visitors into real customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Proudly Based in Southern Ohio"
+    ],
+    "stakesSentence": "If customers can’t easily find your business online, they’ll find someone else. A professionally designed website helps your Manchester business compete and grow.",
+    "h2": "Our Manchester Website Solution",
+    "h2Sub": "We Build Manchester Websites Designed to Convert",
+    "h2Text": "Your website should actively support your business goals every day.",
+    "features": [
+      "Custom website designs for Manchester businesses",
+      "SEO strategies focused on Manchester local searches",
+      "Mobile-first, fast, and secure website builds",
+      "Clean layouts that drive engagement and conversions",
+      "Integration with digital marketing and advertising",
+      "Ongoing insights and support"
+    ],
+    "h3": "Your Manchester Website Experts - Community Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses in Manchester and across Southern Ohio. We combine professional marketing strategies with a genuine understanding of local communities.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Manchester Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the Manchester market and Southern Ohio values."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We help you understand how your website drives growth."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We build long-term partnerships, not short-term projects."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer to Manchester Businesses",
+    "services": {
+      "mp": "Marketing Packages: \nA complete marketing solution designed to support Manchester businesses without the cost of building an in-house team. Our packages combine strategy, execution, and ongoing guidance to drive consistent growth.",
+      "sm": "Social Media:\nAuthentic, community-driven content that helps Manchester businesses build trust, stay visible, and connect with local audiences on social platforms.",
+      "wd": "Website Development:\nConversion-focused website development that reflects your brand, improves usability, and supports long-term growth for your Manchester business.",
+      "ad": "Advertising:\nTargeted digital advertising campaigns built to reach Manchester customers at the right moment and deliver measurable results.",
+      "seo": "SEO Services:\nLocal SEO strategies that improve visibility in Manchester search results and help customers find your business when they’re ready to take action.",
+      "gd": "Graphic Design:\nProfessional graphic design services that help Manchester businesses stand out with clean, consistent visuals across digital and print marketing."
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation",
+      "Discuss challenges and goals",
+      "Discover growth opportunities for your Manchester website"
+    ]
+  },
+  {
+    "key": "ashland-ky",
+    "slug": "/websites/ashland-ky",
+    "title": "Website Design Services in Ashland, Kentucky",
+    "h1": "Website Design In Ashland, KY",
+    "subheading": "Craft an Ashland Website That Works Like Your Best Employee",
+    "heroText": "A website should connect with your audience, engage them, and support business expansion. We specialize in Ashland websites that are locally focused and function flawlessly.",
+    "values": [
+      "5 Years of Proven Expertise",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Take the lead before competitors reach your natural customer base - they’re ready to find you through genuine marketing.",
+    "h2": "Our Ashland Website Solution",
+    "h2Sub": "We Create Ashland Websites Designed for Conversion",
+    "h2Text": "Your website should be your most dedicated salesperson - available 24/7, always ready to engage and convert visitors.",
+    "features": [
+      "Websites that authentically reflect your Ashland brand",
+      "Precision SEO for local search leadership in Ashland",
+      "Designed for mobile, fast, and secure experiences",
+      "User-friendly navigation transforming visitors into clients",
+      "Tailored to enhance your social and marketing efforts",
+      "Access to detailed analytics and steadfast support for awareness"
+    ],
+    "h3": "Your Ashland Website Experts - Dedicated to Community and Local Impact",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses in Appalachian regions, growing from a small team to over 12 specialists, staying true to our regional dedication.",
+    "h4": "Why Trust Us for Your Ashland Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community-Focused",
+        "text": "We understand your community, values, and the customers that you serve"
+      },
+      {
+        "title": "Learning Partnership",
+        "text": "We help you understand how your website drives success."
+      },
+      {
+        "title": "Relationship Building",
+        "text": "We start with a conversation, not just a contract."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Ashland Businesses:",
+    "services": {
+      "mp": "Marketing Packages - Provide your business with comprehensive marketing teams that operate efficiently within the community budget.",
+      "sm": "Social Media - Build communities in Ashland that help your business by fostering genuine connections.",
+      "wd": "Website Development - Develop sites that reflect Ashland's unique charm and lead visitors to become loyal clients.",
+      "ad": "Advertising - Targeted campaigns that speak to the heart of Ashland's community.",
+      "seo": "SEO Services - Dominate local search results by emphasizing Ashland’s local essence.",
+      "gd": "Graphic Design - Create designs that artistically tell Ashland’s unique stories."
+    },
+    "h7": "Let's Begin With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in-person or virtual)",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Discuss your objectives and obstacles",
+      "Discover how we can help your business grow authentically"
+    ]
+  },
+  {
+    "key": "chesapeake-oh",
+    "slug": "/websites/chesapeake-oh",
+    "title": "Website Design In Chesapeake, OH",
+    "h1": "Website Design In Chesapeake, OH",
+    "subheading": "Build a Chesapeake Website That Works Like Your Best Employee",
+    "heroText": "A website shouldn’t just be a page stuck on the internet; it should feel like your top team player. We design Chesapeake sites that are as welcoming and efficient as your best in-person experience.",
+    "values": [
+      "Five Years of Unwavering Support",
+      "Engaged with Over 200 Local Businesses",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Don’t let your future customers find others because you’re not visibile online.",
+    "h2": "Crafting Chesapeake Websites That Deliver",
+    "h2Sub": "Sites That Amplify Chesapeake Businesses",
+    "h2Text": "Your website should be your most dedicated salesperson - available 24/7, always ready to engage and convert visitors.",
+    "features": [
+      "Authentic Chesapeake branding brought to life online",
+      "SEO strategies fit for Chesapeake searches",
+      "Quick, dependable, and user-friendly on all screens",
+      "Easy-to-follow layouts that invite interaction",
+      "Tailored to enhance your social and marketing efforts",
+      "Transparent analytics with consistent support"
+    ],
+    "h3": "Your Chesapeake - Community-Focused and Friendly",
+    "h3Text": "We’ve been helping businesses since 2020. Starting as a small duo, we’ve grown into a 12-strong team, all about local empowerment and authenticity.",
+    "h4": "Why Trust Appalachian Marketing with Your Chesapeake Site?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Local Knowledge",
+        "text": "We’re a part of this community and its pulse."
+      },
+      {
+        "title": "Educative Process",
+        "text": "Every step of design comes with a helpful explanation."
+      },
+      {
+        "title": "Relationship First",
+        "text": "Let’s start with an easy chat over formalities."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Chesapeake Businesses:",
+    "services": {
+      "mp": "Marketing as an Ally - Comprehensive services that feel like teamwork",
+      "sm": "Fostering Social Connections - Real community-building for business impact",
+      "wd": "Customized Web Development - Designs that speak your brand's language",
+      "ad": "Targeted Advertising - Focused and result-driven strategies",
+      "seo": "SEO Strategies - Dominance through genuine, local content",
+      "gd": "Visual Communication - Graphics that create conversation"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free and friendly consultation",
+      "Discuss your aspirations and obstacles",
+      "Learn how we can genuinely boost your business together"
+    ]
+  },
+  {
+    "key": "westportsmouth-oh",
+    "slug": "/websites/westportsmouth-oh",
+    "title": "Website Design Services in West Portsmouth, Ohio",
+    "h1": "Website Design In West Portsmouth, OH",
+    "subheading": "Build a West Portsmouth Website That Works Like Your Best Employee",
+    "heroText": "Your website should actively generate business, not just act as a digital brochure. We design custom West Portsmouth websites that connect with your local audience and convert visitors into paying customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you, if they could just find you.",
+    "h2": "Our West Portsmouth Website Solution",
+    "h2Sub": "We Build West Portsmouth Websites Designed to Convert",
+    "h2Text": "From local service businesses to growing brands, we build West Portsmouth websites that turn traffic into measurable growth.",
+    "features": [
+      "Websites crafted to represent your authentic West Portsmouth brand",
+      "SEO optimized specifically for West Portsmouth search results",
+      "Mobile-friendly, fast, and secure to maximize performance",
+      "Easy-to-navigate designs that increase inquiries and calls",
+      "Integration with your social media and advertising efforts",
+      "Clear analytics and ongoing support so you always know what’s working"
+    ],
+    "h3": "Your West Portsmouth Website Experts, Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has supported businesses throughout Southern Ohio, including West Portsmouth. What started as a small local team has grown into 12+ marketing professionals serving 200+ businesses across the region.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your West Portsmouth Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the customers and industries that shape West Portsmouth’s local economy."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "You’ll always understand how your website strategy drives real ROI."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We prioritize real relationships built on trust and transparency."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer West Portsmouth Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Affordable outsourced marketing teams",
+      "sm": "Social Media: Local engagement that builds brand loyalty",
+      "wd": "Website Development: Strategic design that converts traffic",
+      "ad": "Advertising: Data-driven campaigns for consistent leads",
+      "seo": "SEO Services: Improved visibility in West Portsmouth searches",
+      "gd": "Graphic Design: Branding that stands out in your market"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "westunion-oh",
+    "slug": "/websites/westunion-oh",
+    "title": "Website Design In West Union, OH",
+    "h1": "Website Design In West Union, OH",
+    "subheading": "Elevate Your West Union Business with a Powerful Website",
+    "heroText": "A website should be more than digital presence - it should engage, convert, and grow your business effectively. We craft personalized West Union websites that deliver reliable results.",
+    "values": [
+      "5 Years of Trusted Experience",
+      "Empowering Over 200 Local Businesses",
+      "Dedicated to the Southern Ohio Community"
+    ],
+    "stakesSentence": "By delaying your online marketing, you're letting competitors steal potential customers who are naturally aligned with your offerings.",
+    "h2": "Our West Union Website Package",
+    "h2Sub": "Crafting West Union Websites to Drive Conversion - Stand out online with a site that truly represents you.",
+    "h2Text": "Your website must function as your most trustworthy salesperson - available around the clock, prepared to engage and convert visitors into customers at any opportunity.",
+    "features": [
+      "Authentic West Union brand representation",
+      "SEO strategies fine-tuned for West Union's search landscape",
+      "Mobile-friendly, speedy, and secure designs to satisfy users",
+      "Simplified navigation that turns interest into investment",
+      "Seamless integration with social channels and campaigns",
+      "Comprehensive analytics with ongoing support"
+    ],
+    "h3": "Your West Union Experts - Community-Centric Visionaries",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has designed websites for businesses in the wider Appalachian area. Having grown from two to twelve experts, we remain committed to community roots and local service.",
+    "h4": "Why Partner with Appalachian Marketing & Media for Your West Union Site?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Rooted Understanding",
+        "text": "Deep insights into local values and needs."
+      },
+      {
+        "title": "Knowledge Sharing",
+        "text": "We empower you with the reasoning behind our design choices."
+      },
+      {
+        "title": "Collaborative Relationships",
+        "text": "Initiatives start with conversations, not just contracts."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Services We Extend to West Union Businesses:",
+    "services": {
+      "mp": "Comprehensive Marketing - More than a package, a partnership",
+      "sm": "Social Media Strategies -  Cultivating community and actionable results",
+      "wd": "Tailored Website Development - Converting visitors with aligned branding",
+      "ad": "Advertising Plans - ROI-focused campaigns with precision targeting",
+      "seo": "SEO Mastery - Authentic content for local search leadership",
+      "gd": "Visual Storytelling - Graphic design that speaks to your audience"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Book a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Complimentary consultation",
+      "Discuss aspirations and hurdles",
+      "Discover authentic growth strategies"
+    ]
+  },
+  {
+    "key": "beaver-oh",
+    "slug": "/websites/beaver-oh",
+    "title": "Website Design Services in Beaver, Ohio",
+    "h1": "Website Design In Beaver, OH",
+    "subheading": "Build a Beaver Website That Brings You Consistent Business",
+    "heroText": "Your website should be a steady, dependable worker for your business- sharing your story, answering questions, and generating leads 24/7. We design Beaver websites that fit our rural, hard-working community while using the same powerful tools big-city businesses rely on.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "When your online presence doesn’t match the quality of your work, customers end up choosing someone else - often from outside the community.",
+    "h2": "Our Beaver Website Solution",
+    "h2Sub": "We Build Beaver Websites Designed to Convert",
+    "h2Text": "We pair Appalachian values with modern web design so your Beaver website earns trust and turns visitors into long-term customers.",
+    "features": [
+      "Websites built to reflect your authentic Beaver business and reputation",
+      "SEO tailored for Beaver and Pike County local search visibility",
+      "Mobile-ready, fast, and secure so customers feel safe contacting you",
+      "Clear layouts that make it easy for visitors to call, request a quote, or visit",
+      "Connected to your social media, Google Business Profile, and ad campaigns",
+      "Ongoing support and easy-to-understand analytics so you’re never guessing"
+    ],
+    "h3": "Your Beaver Website Experts — Homegrown and Community-Focused",
+    "h3Text": "Appalachian Marketing & Media was founded in Southern Ohio in 2020 with a simple belief: you shouldn’t have to leave home to get world-class marketing. Today, our 12+ person team serves more than 200 clients in Beaver and across Appalachian Ohio - keeping both jobs and dollars in our local communities.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Beaver Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand Beaver’s tight-knit, word-of-mouth-driven community and design websites that back up your reputation online."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain the “why” behind your website structure, messaging, and SEO, so you stay confident and in control as your business grows."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We start with conversations, not jargon. We’ll sit down with you, learn how you work, and build a site that supports that."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "— Caroline, Temple Tots"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Beaver Businesses",
+    "services": {
+      "mp": "Marketing Packages: A full marketing team for less than hiring in-house",
+      "sm": "Social Media: Authentic content that feels like a local conversation",
+      "wd": "Website Development: Goal-focused sites that still sound like you",
+      "ad": "Advertising: Data-driven campaigns with clear, trackable results",
+      "seo": "SEO Services: Local search strategies built for small-town realities",
+      "gd": "Graphic Design: Branding and visuals that look as professional as your work"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Share your goals and biggest frustrations",
+      "Discover how we can help your Beaver business grow authentically"
+    ]
+  },
+  {
+    "key": "cynthiana-oh",
+    "slug": "/websites/cynthiana-oh",
+    "title": "Website Design Services in Cynthiana, Ohio",
+    "h1": "Website Design In Cynthiana, OH",
+    "subheading": "Build a Cynthiana Website That Works Like Your Best Employee",
+    "heroText": "Your website should work around the clock to promote your business. We design custom Cynthiana websites that elevate your brand and turn clicks into customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you, if they could just find you.",
+    "h2": "Our Cynthiana Website Solution",
+    "h2Sub": "We Build Cynthiana Websites Designed to Convert",
+    "h2Text": "Whether you're serving Cynthiana locally or drawing customers from surrounding areas, we build websites that position you as the trusted choice.",
+    "features": [
+      "Websites crafted to represent your authentic Cynthiana brand",
+      "SEO optimized specifically for Cynthiana local searches",
+      "Mobile-friendly, fast, and secure for better user experience",
+      "Conversion-driven layouts that increase calls and inquiries",
+      "Integration with your social media and paid advertising",
+      "Clear reporting and long-term strategic support"
+    ],
+    "h3": "Your Cynthiana Website Experts, Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has helped businesses across Southern Ohio communities like Cynthiana grow online. From startups to established companies, we’ve supported over 200 local businesses with authentic marketing strategies.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Cynthiana Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the pride and work ethic that define businesses in Cynthiana."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We guide you through every step so you feel confident in your marketing decisions."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We focus on partnerships that last beyond the website launch."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Cynthiana Businesses:",
+    "services": {
+      "mp": "Marketing Packages: A complete outsourced marketing team for less than one employee",
+      "sm": "Social Media: Strategic community engagement that drives real results",
+      "wd": "Website Development: Conversion-focused websites built for long-term growth",
+      "ad": "Advertising: Targeted campaigns that generate measurable ROI",
+      "seo": "SEO Services: Increased visibility in Cynthiana and surrounding searches",
+      "gd": "Graphic Design: Professional branding that reflects your authentic story"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "wellston-oh",
+    "slug": "/websites/wellston-oh",
+    "title": "Website Design Services in Wellston, OH",
+    "h1": "Website Design in Wellston, OH",
+    "subheading": "Build a Wellston Website That Works Like Your Best Employee",
+    "heroText": "Your website needs to be more than just a page online - it should engage users, turn them into customers, and help your business thrive. We're all about building Wellston websites that capture local charm and work smoothly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you put off embracing authentic marketing, you're giving your competitors a better shot at winning over the customers who would pick you - if only they could easily find you online.",
+    "h2": "Our Wellston Website Solution",
+    "h2Sub": "We Build Wellston Websites Designed to Convert",
+    "h2Text": "Your website should be your most dedicated salesperson - available 24/7, always ready to engage and convert visitors.",
+    "features": [
+      "Websites crafted to portray your authentic Wellston brand",
+      "SEO optimized specifically for Wellston local search dominance",
+      "Optimized to be mobile-friendly, fast, and secure, ensuring your customers are always satisfied.",
+      "Easy-to-use navigation and design that converts visitors into loyal customers.",
+      "Seamless integration with your social media, advertising, and marketing campaigns",
+      "Detailed analytics and consistent support to keep you informed every step of the way"
+    ],
+    "h3": "Your Wellston Website Specialists - Local and Community-Driven",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been creating websites for businesses across Appalachian Ohio. Founded by Ryan and Audrey Schiesser as students at Shawnee State University, we've expanded from a two-person team to over 12 local experts, now serving more than 200 clients - all while staying true to our roots and the communities we cherish.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Wellston Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the community, values, and clientele you serve"
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain how each design decision supports and advances your business objectives."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe true partnerships begin with genuine conversations, not merely with signing contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Wellston Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Get a full marketing team for less than the cost of hiring one full-time employee",
+      "sm": "Social Media: Building true community connections that drive actual business growth",
+      "wd": "Website Development: Crafting high-converting sites that genuinely reflect your brand identity",
+      "ad": "Advertising: Precision campaigns designed to achieve quantifiable results",
+      "seo": "SEO Services: Achieve local search excellence with effective, proven strategies",
+      "gd": "Graphic Design: Stunning visuals that powerfully convey your narrative"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Discuss your business goals and challenges",
+      "Discuss your business goals and challenges",
+      "Learn how we can support your genuine growth."
+    ]
+  },
+  {
+    "key": "vinton-oh",
+    "slug": "/websites/vinton-oh",
+    "title": "Website Design Services in Vinton, Ohio",
+    "h1": "Website Design In Vinton, OH",
+    "subheading": "Build a Vinton Website That Works Like Part of Your Team",
+    "heroText": "Your website shouldn’t just “be there.” It should answer questions, create trust, and bring in steady leads. We design custom Vinton websites that reflect small-town values while performing like a modern sales machine.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "When your online presence doesn’t match how good you really are, nearby competitors get the calls and clicks that should be yours.",
+    "h2": "Our Vinton Website Solution",
+    "h2Sub": "We Build Vinton Websites That Turn Clicks into Customers",
+    "h2Text": "Every Vinton website we design is grounded in your story, tailored to your neighbors, and engineered to turn visitors into real customers.",
+    "features": [
+      "Websites that showcase your genuine Vinton brand and small-town personality",
+      "SEO tuned to help you show up in Vinton and Gallia County local searches",
+      "Fast, secure, and mobile-ready builds that work on any device",
+      "Intuitive layouts that guide visitors to call, visit, or book with confidence",
+      "Integration with your social media and advertising efforts",
+      "Transparent analytics and support so you always know how your site is performing"
+    ],
+    "h3": "Your Vinton Website Experts - Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has helped businesses in Vinton and across Appalachian Ohio move from “invisible online” to “easy to find and easy to trust.” We’ve grown to a team of 12+ local professionals, serving 200+ clients, while keeping our focus on real people in real communities.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Vinton Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand what matters in small Gallia County communities; relationships, reputation, and trust, and we build websites that honor that."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We walk you through every major choice; design, content, SEO, so you always understand how it supports your Vinton business."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe genuine partnerships start with conversations, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Vinton Businesses",
+    "services": {
+      "mp": "Marketing Packages: Fractional marketing team support at a budget-friendly rate",
+      "sm": "Social Media: Content that feels like Vinton; local, authentic, and relationship-driven",
+      "wd": "Website Development: High-performing sites that still sound like you, not a template",
+      "ad": "Advertising: Highly targeted campaigns with measurable results",
+      "seo": "SEO Services: Local SEO strategies to help you stand out in Vinton and greater Gallia County",
+      "gd": "Graphic Design: Logos, branding, and visuals that reflect your Appalachian roots"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Share your business goals and challenges",
+      "Learn how we can help your Peebles business grow authentically, online and off"
+    ]
+  },
+  {
+    "key": "south-point-oh",
+    "slug": "/websites/south-point-oh",
+    "title": "Website Design In South Point, OH",
+    "h1": "Website Design In South Point, OH",
+    "subheading": "Bringing South Point’s Best to the Web",
+    "heroText": "Your website should be more than a digital billboard; it should be your right-hand business tool. We’ll create a South Point site that feels familiar yet fresh, ready to support your growth.",
+    "values": [
+      "5 Years of Success Stories",
+      "Helping Over 200 Local Businesses",
+      "Passionate about the Southern Ohio Region"
+    ],
+    "stakesSentence": "Don’t let another day slip by letting competitors catch eyes that should be on you.",
+    "h2": "Our South Point Website Solution",
+    "h2Sub": "Websites That Grow South Point Business",
+    "h2Text": "Your site should tell your story - simply and effectively.",
+    "features": [
+      "Websites reflecting your unique South Point identity",
+      "SEO tailored for South Point searches",
+      "Designed for all devices – quick, safe, and user-friendly",
+      "Layouts that guide visitors smoothly towards engagement",
+      "Social media ready to amplify your reach",
+      "Insightful analytics with ongoing guidance"
+    ],
+    "h3": "Your South Point Partners - Community-Focused and Friendly",
+    "h3Text": "We’ve been helping businesses since 2020. Starting as a small duo, we’ve grown into a 12-strong team, all about local empowerment and authenticity.",
+    "h4": "Why Team Up with Appalachian Marketing for Your South Point Site?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Connection",
+        "text": "We understand South Point,  its values and its people."
+      },
+      {
+        "title": "Learning Together",
+        "text": "We share the 'why' behind every decision we make together."
+      },
+      {
+        "title": "Relationship First",
+        "text": "Conversations start our partnerships, not formalities."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Services for South Point’s Success:",
+    "services": {
+      "mp": "Marketing Packages: Your complete marketing team for less than one full-time hire",
+      "sm": "Think of us as your marketing crew -  without the full-time cost",
+      "wd": "Smart Website Creation - Sites that don't just look good, they work hard, too",
+      "ad": "Precision Advertising - Campaigns that aim and deliver",
+      "seo": "Local SEO Savvy: Keep it authentic, keep it local",
+      "gd": "Artistic Graphics - Design that communicates clearly and crisply"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Enjoy a free consultation, tailored to your preference",
+      "Let’s talk about your goals and the challenges you face",
+      "Discover how we can add real value to your growth journey"
+    ]
+  },
+  {
+    "key": "ironton-oh",
+    "slug": "/websites/ironton-oh",
+    "title": "Website Design Services in Ironton, Ohio",
+    "h1": "Website Design In Ironton, OH",
+    "subheading": "Build an Ironton Website That Works Like Your Best Employee",
+    "heroText": "Your website should be an active tool that engages visitors, turns them into customers, and boosts your business growth. We design custom Ironton websites that blend local charm with flawless functionality.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Each day you postpone genuine marketing efforts, your competitors are winning over customers who would prefer your services - if only they could discover you.",
+    "h2": "Our Ironton Website Solution",
+    "h2Sub": "We Build Ironton Websites Designed to Convert",
+    "h2Text": "Your website must function as your most trustworthy salesperson - available around the clock, prepared to engage and convert visitors into customers at any opportunity.",
+    "features": [
+      "Websites designed to truly reflect your unique Ironton brand",
+      "SEO optimized specifically for Ironton local search dominance",
+      "Designed to be mobile-responsive, swift, and secure, ensuring your customers remain delighted and confident.",
+      "User-friendly designs that transform visitors into loyal customers",
+      "Seamless integration with your social media and advertising efforts",
+      "Clear analytics and ongoing support so you're never out of the loop"
+    ],
+    "h3": "Your Local Ironton Website Specialists - Rooted in Community and Focused on You",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has empowered businesses in Appalachian Ohio. We've evolved from a two-person team to 12+ local experts serving over 200 clients - all while staying true to our roots and communities.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Ironton Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community-Focused",
+        "text": "We understand your community, values, and the customers that you serve"
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain why every design choice boosts your business goals"
+      },
+      {
+        "title": "Prioritized Relationship",
+        "text": "We believe in building genuine relationships over coffee, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Ironton Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Get a full marketing team for less than the cost of hiring one full-time employee",
+      "sm": "Fostering connections that generate tangible business results",
+      "wd": "Websites that drive conversions without sacrificing your brand's authenticity",
+      "ad": "Precision campaigns with trackable returns",
+      "seo": "Dominate local searches using genuine content",
+      "gd": "Crafting professional visuals that authentically narrate your story"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Enjoy a free consultation, tailored to your preference",
+      "Discuss your objectives and hurdles",
+      "Discover how we can support your genuine growth"
+    ]
+  },
+  {
+    "key": "winchester-oh",
+    "slug": "/websites/winchester-oh",
+    "title": "Website Design Services in Winchester, OH",
+    "h1": "Website Design in Winchester, OH",
+    "subheading": "Winchester Website Design That Drives Real Business Growth",
+    "heroText": "Your website should be more than an online brochure. It should generate calls, form submissions, and new customers in Winchester and throughout Adams County.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you; if they could just find you.",
+    "h2": "Our Winchester Website Services",
+    "h2Sub": "Custom Built. SEO Optimized. Conversion Focused.",
+    "h2Text": "We combine strategy, design, and search optimization to help Winchester businesses thrive online.",
+    "features": [
+      "Custom website development aligned with your brand",
+      "SEO built specifically for Winchester and Adams County searches",
+      "Fast-loading, mobile-optimized builds",
+      "Clear calls-to-action and lead capture systems",
+      "Advertising and social integration",
+      "Ongoing reporting and optimization"
+    ],
+    "h3": "Your Winchester Marketing Partner - Local and Invested",
+    "h3Text": "Appalachian Marketing & Media partners with businesses across Southern Ohio to deliver measurable results. Our team of designers, SEO specialists, strategists, and content creators works together to build digital systems that drive consistent growth.\nWe understand the unique challenges rural and small-town businesses face, and we build strategies that work within those realities.",
+    "h4": "Why Winchester Businesses Choose Appalachian Marketing & Media",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the region and how customers search for services locally."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "Every website we build is designed to support measurable business growth."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We prioritize communication and long-term partnerships."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Marketing Services for Winchester Businesses",
+    "services": {
+      "mp": "Comprehensive Marketing Services for Winchester Businesses",
+      "sm": "Social Media Management: Build Authentic Engagement That Converts",
+      "wd": "Website Development: High-Converting Sites That Stay True to Your Brand",
+      "ad": "Digital Advertising: Targeted Google & Meta Campaigns",
+      "seo": "Local SEO Services: Rank Higher in Winchester and Surrounding Communities",
+      "gd": "Graphic Design: Professional Branding and Print Materials"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in-person or virtual)",
+      "Share your goals and challenges",
+      "Discover how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "cheshire-oh",
+    "slug": "/websites/cheshire-oh",
+    "title": "Website Design Services  in Cheshire, OH",
+    "h1": "Website Design in Cheshire, OH",
+    "subheading": "Build a Cheshire Website That Works Around the Clock",
+    "heroText": "Your website shouldn’t just sit online, it should actively generate leads for your business in Cheshire and throughout Gallia County. We design custom websites that reflect your brand, connect with local customers, and turn visitors into paying clients.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay investing in professional marketing, another local competitor is earning the clicks, calls, and customers that could have been yours.",
+    "h2": "Our Cheshire Website Solution",
+    "h2Sub": "Websites Built to Convert Local Traffic Into Real Revenue",
+    "h2Text": "Your website should function like your best employee; always available, always representing your business well.",
+    "features": [
+      "Custom websites designed to reflect your Cheshire business and community presence",
+      "SEO optimized specifically for Cheshire and Gallia County search visibility",
+      "Mobile-friendly, lightning-fast, and secure builds",
+      "Clean layouts and intuitive navigation that drive conversions",
+      "Integration with social media, Google Ads, and digital campaigns",
+      "Clear reporting and ongoing support so you’re never in the dark"
+    ],
+    "h3": "Your Cheshire Marketing Partner - Local and Invested",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has helped businesses across Southern Ohio grow through strategic website design, SEO, and digital marketing. What began as a small team has grown into 12+ marketing professionals serving over 200 local businesses, and we remain deeply committed to the communities we serve.\nWe understand what makes small-town businesses successful because we live and work here too.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Cheshire Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We know Southern Ohio. We understand how local customers search, shop, and choose businesses."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain every strategy and design decision so you understand how it supports your growth."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We prioritize long-term partnerships built on communication, trust, and transparency."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services for Cheshire Businesses",
+    "services": {
+      "mp": "Full Marketing Packages: A complete outsourced marketing department",
+      "sm": "Social Media Management: Build authentic engagement that converts",
+      "wd": "Website Development: High-converting sites that stay true to your brand",
+      "ad": "Digital Advertising: Targeted Google & Meta campaigns",
+      "seo": "Local SEO Services: Rank higher in Cheshire and surrounding communities",
+      "gd": "Graphic Design: Professional branding and print materials"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in-person or virtual)",
+      "Share your goals and challenges",
+      "Discover a marketing plan built specifically for your Cheshire business"
+    ]
+  },
+  {
+    "key": "waverly-oh",
+    "slug": "/websites/waverly-oh",
+    "title": "Website Design Services in Waverly, Ohio",
+    "h1": "Website Design In Waverly, OH",
+    "subheading": "Build a Waverly Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just look nice - it should actively bring in new customers. We design custom Waverly websites that reflect your local business and function seamlessly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you - if they could just find you.",
+    "h2": "Our Waverly Website Solution",
+    "h2Sub": "We blend hometown understanding with modern web strategy so your Waverly website becomes a hardworking, always-on member of your team.",
+    "h2Text": "Your website needs to be your most reliable salesperson - accessible anytime, ready to connect and convert visitors into customers at any moment.",
+    "features": [
+      "Websites crafted to represent your authentic Waverly brand",
+      "SEO optimized specifically for Waverly and Pike County local search dominance",
+      "Mobile-friendly, fast, and secure to keep your customers confident and engaged",
+      "Easy-to-navigate designs that turn casual visitors into paying customers",
+      "Seamless integration with your social media and advertising efforts",
+      "Clear analytics and ongoing support so you never feel left in the dark"
+    ],
+    "h3": "Your Waverly Website Experts - Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been building websites and marketing systems for businesses in Waverly and across Appalachian Ohio. We’ve grown from a two-person team to 12+ local experts serving 200+ clients - all without losing sight of who we are or the communities we serve.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Waverly Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the people, values, and pace of life in Waverly - and we design websites that speak directly to your neighbors, not just an algorithm."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We walk you through what we’re doing and why - from layouts to SEO - so every design choice is tied directly to your business goals."
+      },
+      {
+        "title": "Relationship First",
+        "text": "Genuine relationships start over coffee, not just contracts. Expect clear communication, real conversations, and a partner who actually listens."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Abe and the Appalachian Marketing team have been a huge help with our online presence. They are everything we could ask for in a marketing team, and they make you feel like you are their only client. On top of that, the success we have already seen from their help is better than what we were even expecting. I would highly recommend.",
+        "name": "'- Jacob, Midwest Reserves"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Waverly Businesses",
+    "services": {
+      "mp": "Marketing Packages: A complete marketing team for less than one full-time employee",
+      "sm": "Social Media: Community-building content that turns followers into regulars",
+      "wd": "Website Development: Conversion-focused sites that stay true to your brand",
+      "ad": "Advertising: Targeted campaigns with measurable ROI",
+      "seo": "SEO Services: Local search visibility built on authentic, relevant content",
+      "gd": "Graphic Design: Professional visuals that tell your Appalachian story"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation",
+      "Discuss your goals and challenges",
+      "Learn how we can help your Waverly business grow authentically"
+    ]
+  },
+  {
+    "key": "coalton-oh",
+    "slug": "/websites/coalton-oh",
+    "title": "Website Design Services in Coalton, Ohio",
+    "h1": "Website Design In Coalton, OH",
+    "subheading": "Build a Coalton Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just sit online. It should build trust, generate leads, and support your growth every day. We design custom Coalton websites that reflect your community roots and perform flawlessly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you, if they could just find you.",
+    "h2": "Our Coalton Website Solution",
+    "h2Sub": "We Build Coalton Websites Designed to Convert",
+    "h2Text": "Your Coalton business deserves a website that works as hard as you do, clear, strategic, and built to bring in real local customers.",
+    "features": [
+      "Websites crafted to represent your authentic Coalton brand",
+      "SEO optimized specifically for Coalton local search visibility",
+      "Mobile-friendly, fast, and secure to keep your customers happy",
+      "Easy-to-navigate designs that turn visitors into customers",
+      "Integration with your social media and advertising efforts",
+      "Clear analytics and ongoing support so you never feel left in the dark"
+    ],
+    "h3": "Your Coalton Website Experts, Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has partnered with businesses throughout Southern Ohio, including communities like Coalton. We’ve grown from a two-person team to 12+ local experts serving 200+ clients, all without losing sight of who we are or the communities we serve.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Coalton Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the small-town values, relationships, and customers that drive business in Coalton."
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We explain how every design decision supports your long-term business growth."
+      },
+      {
+        "title": "Relationship First",
+        "text": "We believe strong partnerships start with conversations, not contracts."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Coalton Businesses:",
+    "services": {
+      "mp": "Marketing Packages: Complete marketing teams for less than one employee",
+      "sm": "Social Media: Community building that drives real business",
+      "wd": "Website Development: Sites that convert while staying true to your brand",
+      "ad": "Advertising: Targeted campaigns with measurable ROI",
+      "seo": "SEO Services: Local search visibility with authentic content",
+      "gd": "Graphic Design: Professional visuals that tell your authentic story"
+    },
+    "h7": "Let’s Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in person or virtual)",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we can help you grow authentically"
+    ]
+  },
+  {
+    "key": "gallipolis-oh",
+    "slug": "/websites/gallipolis-oh",
+    "title": "Website Design Services in Gallipolis, Ohio",
+    "h1": "Website Design In Gallipolis, OH",
+    "subheading": "Build a Gallipolis Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just sit on the internet; it should attract and engage your audience. We create websites in Gallipolis that really connect with local customers.",
+    "values": [
+      "5 Years of Proven Success",
+      "Serving Over 200 Local Clients",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Take charge before competitors grab hold of your audience by making it easy for them to find you.",
+    "h2": "Our Gallipolis Website Solution",
+    "h2Sub": "Get a Website That Works for You",
+    "h2Text": "Your website needs to be your most reliable salesperson - accessible anytime, ready to connect and convert visitors into customers at any moment.",
+    "features": [
+      "Websites that truly show off your Gallipolis business",
+      "SEO setup to help local folks find you",
+      "Fast, mobile-friendly, and reliable",
+      "Easy layout designs that makes visitors become customers",
+      "Connect easily with your social media and ads",
+      "Full reports and help so you’re never left wondering"
+    ],
+    "h3": "Your Local Gallipolis Website Specialists - Rooted in Community and Focused on You",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been building local websites for businesses in Portsmouth and Appalachian Ohio. Founded by Ryan and Audrey Schiesser while students at Shawnee State University, we’ve grown from a two-person team to 12+ local experts serving 200+ clients — all without losing sight of who we are or the communities we serve.",
+    "h4": "Why Choose Us for Your Gallipolis Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Understanding",
+        "text": "We get what matters to your area and your customers."
+      },
+      {
+        "title": "Learning Partnership",
+        "text": "We show you why every part of your site helps your business grow."
+      },
+      {
+        "title": "Personal Relationships",
+        "text": "We start with a coffee chat instead of just business paperwork."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "Appalachian Marketing and Media has been incredible to work with! They’ve provided amazing support for the Chamber and our new coworking space, making everything easy and quick from start to finish. Their meetings are well-structured, and the team took what I had envisioned and brought it to life perfectly. They’ve created beautiful physical marketing materials, fresh new logos, and engaging social media content that truly represents us.",
+        "name": "'- Bobby, Hocking Hills Chamber of Commerce"
+      },
+      {
+        "text": "Incredibly pleased from my experience with AMM. From initial contact, through various stages of review and editing, the entire team was tentative, friendly, and efficient with getting my needs taken care of. Since the launch of the website design that AMM created, I’ve noticed a significant increase in digital volume, and foot traffic in my business.",
+        "name": "'-  Jesse, Jesse E. Scott Attorney at Law"
+      }
+    ],
+    "h6": "Additional Services We Offer Gallipolis Businesses:",
+    "services": {
+      "mp": "Marketing Packages - Provide your business with comprehensive marketing teams that operate efficiently within the community budget.",
+      "sm": "Social Media - Foster connections with the unique community of Gallipolis, driving engagement and authentic growth.",
+      "wd": "Website Development - Tailor-made sites that honor Gallipolis' local character and convert visitors to clients.",
+      "ad": "Advertising - Engage with focused campaigns that are relatable and resonate with Gallipolis locals.",
+      "seo": "SEO Services - Enhance your visibility in Gallipolis neighborhoods, ensuring you stand out in local searches.",
+      "gd": "Graphic Design - Design visuals that reflect the spirit and identity of Gallipolis."
+    },
+    "h7": "Let's Begin With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session (in-person or virtual)",
+    "ctaBenefits": [
+      "Free Consultation (in-person or virtual)",
+      "Discuss your objectives and obstacles",
+      "Discover how we can help your business grow authentically"
+    ]
+  },
+  {
+    "key": "portsmouth-oh",
+    "slug": "/websites/portsmouth-oh",
+    "title": "Website Design Services in Portsmouth, Ohio",
+    "h1": "Website Design In Portsmouth, OH",
+    "subheading": "Build a Portsmouth Website That Works Like Your Best Employee",
+    "heroText": "Your website should do more than just exist. It should connect, convert, and grow your business. We design custom Portsmouth websites that feel local and function flawlessly.",
+    "values": [
+      "5 Years of Proven Success",
+      "200+ Local Businesses Served",
+      "Founded in Southern Ohio"
+    ],
+    "stakesSentence": "Every day you delay authentic marketing, competitors are capturing customers who would naturally choose you – if they could just find you.",
+    "h2": "Our Portsmouth Website Solution",
+    "h2Sub": "We Build Portsmouth Websites Designed to Convert",
+    "h2Text": "Your website needs to be your most reliable salesperson - accessible anytime, ready to connect and convert visitors into customers at any moment.",
+    "features": [
+      "Websites crafted to represent your authentic Portsmouth brand",
+      "SEO optimized specifically for Portsmouth local search dominance",
+      "Mobile-friendly, fast, and secure to keep your customers happy",
+      "Easy-to-navigate designs that turn visitors into customers",
+      "Integration with your social media and advertising efforts",
+      "Clear analytics and ongoing support so you never feel left in the dark"
+    ],
+    "h3": "Your Portsmouth Website Experts - Homegrown and Community-Focused",
+    "h3Text": "Since 2020, Appalachian Marketing & Media has been building local websites for businesses in Portsmouth and Appalachian Ohio. Founded by Ryan and Audrey Schiesser while students at Shawnee State University, we’ve grown from a two-person team to 12+ local experts serving 200+ clients — all without losing sight of who we are or the communities we serve.",
+    "h4": "Why Choose Appalachian Marketing & Media for Your Portsmouth Website?",
+    "h4Sub": "Three Differentiators:",
+    "benefits": [
+      {
+        "title": "Community Rooted",
+        "text": "We understand the community, values, and customers you serve"
+      },
+      {
+        "title": "Educational Partnership",
+        "text": "We show you why every design choice drives your business goals"
+      },
+      {
+        "title": "Relationship First",
+        "text": "Genuine relationships start over coffee, not just contracts"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Healthcare",
+        "value": "49% traffic increase, 177% more calls"
+      },
+      {
+        "label": "Home Services",
+        "value": "189% organic traffic growth"
+      },
+      {
+        "label": "Community Impact",
+        "value": "$1M+ generated while keeping every dollar local"
+      },
+      {
+        "label": "Team Growth",
+        "value": "From 2 founders to 12+ local professionals"
+      }
+    ],
+    "h5": "Real Growth from Real Local Partnerships.",
+    "testimonials": [
+      {
+        "text": "My experience with Appalachian Marketing and Media has been great. The website turned out better than the more expensive company I previously used and it was minimal effort on my part. What makes Appalachian stand out is their superior combination of artistic talent, content creation, and technological know how. I'll definitely use them for everything going forward.",
+        "name": "'-Jared\nBurnside Brankamp Law"
+      },
+      {
+        "text": "Exceptional service from our advertising team!  Their creativity and dedication have transformed our campaigns, resulting in increased engagement and brand visibility. Each member brings unique skills and insights, contributing to our success. Highly recommend their expertise to anyone looking for impactful advertising solutions! Outstanding job and amazing people. Abe, Kady, Kaitie, Carly & Eli!!!",
+        "name": "'-Brandy and Charlie\n\nAdvanced Building Restorations"
+      },
+      {
+        "text": "This team took my business to the next level. They did this through amazing customer service, and a staff that goes above and beyond to meet the needs of the customer.",
+        "name": "'-Caroline\nTemple Tots"
+      }
+    ],
+    "h6": "Additional Services We Offer Portsmouth Businesses:",
+    "services": {
+      "mp": "Complete marketing teams for less than one employee",
+      "sm": "Community building that drives real business",
+      "wd": "Sites that convert while staying true to your brand",
+      "ad": "Targeted campaigns with measurable ROI",
+      "seo": "Local search dominance with authentic content",
+      "gd": "Professional visuals that tell your authentic story"
+    },
+    "h7": "Let's Start With What We Do Best",
+    "h7Sub": "A Genuine Conversation",
+    "cta": "Schedule a Strategy Session",
+    "ctaBenefits": [
+      "Free consultation (in person or virtual)",
+      "Discuss your goals and challenges",
+      "Learn how we can help you grow authentically"
+    ]
+  }
+];
+
+export const locationMap = {};
+locations.forEach(loc => { locationMap[loc.key] = loc; });

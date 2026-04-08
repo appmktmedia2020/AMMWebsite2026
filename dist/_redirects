@@ -1,0 +1,76 @@
+# Legacy redirects only — SPA fallback is handled by netlify.toml
+/team        /about          301
+/services-overview  /services/website-design  301
+/services           /services/website-design  301
+/service-areas  /about/areas-we-service  301
+/new-home  /  301
+
+# ── Old Wix /custom-website-design/ → new /websites/ location pages ─────
+# These preserve SEO equity from the old Wix site's location pages.
+# Maps: /custom-website-design/{city}-{full-state} → /websites/{city}-{state-abbrev}
+
+/custom-website-design/portsmouth-ohio        /websites/portsmouth-oh      301
+/custom-website-design/ironton-ohio           /websites/ironton-oh         301
+/custom-website-design/gallipolis-ohio        /websites/gallipolis-oh      301
+/custom-website-design/jackson-ohio           /websites/jackson-oh         301
+/custom-website-design/waverly-ohio           /websites/waverly-oh         301
+/custom-website-design/piketon-ohio           /websites/piketon-oh         301
+/custom-website-design/chesapeake-ohio        /websites/chesapeake-oh      301
+/custom-website-design/wheelersburg-ohio      /websites/wheelersburg-oh    301
+/custom-website-design/lucasville-ohio        /websites/lucasville-oh      301
+/custom-website-design/new-boston-ohio         /websites/newboston-oh       301
+/custom-website-design/peebles-ohio           /websites/peebles-oh         301
+/custom-website-design/seaman-ohio            /websites/seaman-oh          301
+/custom-website-design/south-webster-ohio     /websites/southwebster-oh    301
+/custom-website-design/oak-hill-ohio          /websites/oakhill-oh         301
+/custom-website-design/west-union-ohio        /websites/westunion-oh       301
+/custom-website-design/west-portsmouth-ohio   /websites/westportsmouth-oh  301
+/custom-website-design/coal-grove-ohio        /websites/coalgrove-oh       301
+/custom-website-design/manchester-ohio        /websites/manchester-oh      301
+/custom-website-design/south-point-ohio       /websites/south-point-oh     301
+/custom-website-design/proctorville-ohio      /websites/proctorville-oh    301
+/custom-website-design/wellston-ohio          /websites/wellston-oh        301
+/custom-website-design/ashland-kentucky       /websites/ashland-ky         301
+/custom-website-design/bentonville-ohio       /websites/bentonville-oh     301
+/custom-website-design/beaver-ohio            /websites/beaver-oh          301
+/custom-website-design/crown-city-ohio        /websites/crowncity-oh       301
+/custom-website-design/rio-grande-ohio        /websites/riogrande-oh       301
+/custom-website-design/winchester-ohio        /websites/winchester-oh      301
+/custom-website-design/cheshire-ohio          /websites/cheshire-oh        301
+/custom-website-design/coalton-ohio           /websites/coalton-oh         301
+/custom-website-design/vinton-ohio            /websites/vinton-oh          301
+/custom-website-design/cynthiana-ohio         /websites/cynthiana-oh       301
+/custom-website-design/stockdale-ohio         /websites/stockdale-oh       301
+
+# Old Wix locations that don't have a direct match in the new CSV — send to areas page
+/custom-website-design/chillicothe-ohio       /about/areas-we-service      301
+/custom-website-design/circleville-ohio       /about/areas-we-service      301
+/custom-website-design/columbus-ohio          /about/areas-we-service      301
+/custom-website-design/athens-ohio            /about/areas-we-service      301
+/custom-website-design/franklin-furnace-ohio  /about/areas-we-service      301
+/custom-website-design/lancaster-ohio         /about/areas-we-service      301
+/custom-website-design/huntington-west-virginia  /about/areas-we-service   301
+/custom-website-design/grove-city-ohio        /about/areas-we-service      301
+/custom-website-design/westerville-ohio       /about/areas-we-service      301
+/custom-website-design/hillsboro-ohio         /about/areas-we-service      301
+/custom-website-design/dublin-ohio            /about/areas-we-service      301
+/custom-website-design/bexley-ohio            /about/areas-we-service      301
+/custom-website-design/ashville-ohio          /about/areas-we-service      301
+/custom-website-design/new-albany-ohio        /about/areas-we-service      301
+/custom-website-design/newark-ohio            /about/areas-we-service      301
+/custom-website-design/west-jefferson-ohio    /about/areas-we-service      301
+
+# Alternate Wix URL pattern: /{city}-{state}-website-design
+/waverly-ohio-website-design                  /websites/waverly-oh         301
+/portsmouth-ohio-website-design               /websites/portsmouth-oh      301
+/ironton-ohio-website-design                  /websites/ironton-oh         301
+/gallipolis-ohio-website-design               /websites/gallipolis-oh      301
+/jackson-ohio-website-design                  /websites/jackson-oh         301
+/piketon-ohio-website-design                  /websites/piketon-oh         301
+/chesapeake-ohio-website-design               /websites/chesapeake-oh      301
+/wheelersburg-ohio-website-design             /websites/wheelersburg-oh    301
+/lucasville-ohio-website-design               /websites/lucasville-oh      301
+/ashland-kentucky-website-design              /websites/ashland-ky         301
+
+# Catch-all: any remaining /custom-website-design/ URLs go to areas page
+/custom-website-design/*                      /about/areas-we-service      301

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block internal admin area
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://www.appmktmedia.com/sitemap.xml

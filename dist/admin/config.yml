@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Where uploaded images go
+media_folder: public/images/blog
+public_folder: /images/blog
+
+# Site URL for previews
+site_url: https://appalachianmm.com
+
+collections:
+  - name: blog
+    label: Blog Posts
+    folder: src/content/blog
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: blog/{{slug}}
+    fields:
+      - { label: "Title", name: title, widget: string }
+      - { label: "Publish Date", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "MMMM D, YYYY", time_format: false }
+      - { label: "Author", name: author, widget: string, default: "AMM Team" }
+      - label: "Category"
+        name: category
+        widget: select
+        options:
+          - "Local SEO"
+          - "Social Media"
+          - "Website Design"
+          - "Graphic Design"
+          - "Digital Marketing"
+          - "Business Tips"
+          - "Agency News"
+        default: "Digital Marketing"
+      - { label: "Excerpt", name: excerpt, widget: text, hint: "A short 1-2 sentence summary shown on the blog listing page." }
+      - { label: "Featured Image", name: featuredImage, widget: image, required: false, hint: "Recommended size: 1200x630px" }
+      - { label: "Featured Image Alt Text", name: featuredImageAlt, widget: string, required: false }
+      - { label: "Body", name: body, widget: markdown }
+      - label: "SEO"
+        name: seo
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - { label: "Meta Title", name: metaTitle, widget: string, required: false, hint: "Leave blank to use post title" }
+          - { label: "Meta Description", name: metaDescription, widget: text, required: false, hint: "Leave blank to use excerpt" }

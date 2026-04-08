@@ -1,0 +1,359 @@
+/* ─── CSS Variables & Fonts ──────────────────────────────────────────────── */
+:root {
+  --color-primary: #25516A;
+  --color-primary-light: #1B6FAD;
+  --color-accent: #CD9B42;
+  --color-accent-dark: #b8842e;
+  --color-accent-soft: #C47B74;
+  --color-highlight: #FBE464;
+  --color-dark: #1F2235;
+  --color-body: #677294;
+  --color-light-bg: #E8F1FA;
+  --font-heading: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  --font-body: 'Nunito', 'Segoe UI', Tahoma, sans-serif;
+  --font-meta: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: var(--font-body); color: var(--color-body); background: #fff; overflow-x: hidden; }
+
+/* ─── Dot grid decoration ────────────────────────────────────────────────── */
+.dot-grid {
+  position: absolute;
+  width: 120px; height: 120px;
+  background-image: radial-gradient(circle, var(--color-primary-light) 2px, transparent 2px);
+  background-size: 16px 16px;
+  opacity: 0.35;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ─── Animations ─────────────────────────────────────────────────────────── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-40px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(40px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+@keyframes pageFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ─── Scroll animation classes ───────────────────────────────────────────── */
+.anim, .animate-on-scroll { opacity: 0; }
+.anim.vis, .animate-on-scroll.visible { animation: fadeInUp 0.7s ease forwards; }
+.anim.vis.d1, .animate-on-scroll.visible.delay-1 { animation-delay: 0.1s; }
+.anim.vis.d2, .animate-on-scroll.visible.delay-2 { animation-delay: 0.2s; }
+.anim.vis.d3, .animate-on-scroll.visible.delay-3 { animation-delay: 0.3s; }
+.anim.vis.d4, .animate-on-scroll.visible.delay-4 { animation-delay: 0.4s; }
+.anim.vis.d5, .animate-on-scroll.visible.delay-5 { animation-delay: 0.5s; }
+.anim.vis.d6, .animate-on-scroll.visible.delay-6 { animation-delay: 0.6s; }
+
+/* ─── Skip to content (accessibility) ────────────────────────────────────── */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-accent);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 0 0 8px 8px;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  z-index: 1000;
+  transition: top 0.2s;
+}
+.skip-link:focus { top: 0; }
+
+/* ─── Mobile sub-nav accordion ───────────────────────────────────────────── */
+.mobile-subnav { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+.mobile-subnav.open { max-height: 500px; }
+
+/* ─── Sticky mobile CTA bar (removed) ───────────────────────────────────── */
+.mobile-cta-bar { display: none !important; }
+
+/* ─── Mobile responsive overrides ───────────────────────────────────────── */
+@media (max-width: 600px) {
+  /* Hero sections: tighten gap on small screens */
+  .hero-flex { gap: 24px !important; }
+
+  /* Footer: force single column below 520px */
+  .footer-grid { grid-template-columns: 1fr !important; }
+}
+
+/* ─── Prevent horizontal scroll on all viewports ────────────────────────── */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+/* ─── Testimonial slide container: auto height on mobile ────────────────── */
+@media (max-width: 768px) {
+  .testimonial-slide-container {
+    position: relative !important;
+    min-height: unset !important;
+  }
+  .testimonial-slide-container > div {
+    position: relative !important;
+    top: unset !important;
+    left: unset !important;
+    right: unset !important;
+  }
+  .testimonial-slide-container > div[style*="opacity: 0"],
+  .testimonial-slide-container > div[style*="opacity:0"] {
+    display: none !important;
+  }
+}
+
+/* ─── Leaflet map mobile height ──────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .service-map-container { height: 300px !important; min-height: 300px !important; }
+}
+
+/* ─── Page transition ────────────────────────────────────────────────────── */
+.page-wrapper { animation: pageFadeIn 0.3s ease forwards; }
+
+/* ─── Prevent stuck hover on touch ───────────────────────────────────────── */
+@media (hover: none) {
+  a:hover, button:hover { opacity: 1 !important; }
+}
+
+/* ─── Reduced motion ────────────────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── Global minimum touch target sizes (WCAG 2.5.5 / Material guidance) ─── */
+@media (max-width: 960px) {
+  /* Ensure all nav links, buttons, and anchors in nav/footer meet 44px minimum */
+  nav a, nav button,
+  footer a, footer button {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+  /* Inline text links inside paragraphs are exempt — padding only */
+  main p a {
+    padding: 2px 0;
+  }
+}
+
+/* ─── Active nav state ───────────────────────────────────────────────────── */
+.nav-link-active {
+  color: var(--color-accent) !important;
+  position: relative;
+}
+.nav-link-active::after {
+  content: '';
+  position: absolute;
+  bottom: -4px; left: 0; right: 0;
+  height: 2px;
+  background: var(--color-accent);
+  border-radius: 1px;
+}
+
+/* ─── Nav link glass hover ──────────────────────────────────────────────── */
+.nav-glass-link {
+  padding: 7px 18px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  position: relative;
+  border: 1px solid transparent;
+  height: auto !important;
+}
+.nav-glass-link:hover {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08), inset 0 1px 0 rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.12);
+}
+
+/* Glass dropdown panel */
+.nav-glass-dropdown {
+  background: rgba(15,30,45,0.88) !important;
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255,255,255,0.12) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.25) !important;
+  padding: 8px !important;
+}
+.nav-glass-dropdown a {
+  transition: all 0.2s ease;
+  border-radius: 8px;
+  margin: 2px 0;
+  padding: 10px 16px !important;
+  color: rgba(255,255,255,0.85) !important;
+  font-size: 14px !important;
+}
+.nav-glass-dropdown a:hover {
+  background: rgba(255,255,255,0.1) !important;
+  color: #fff !important;
+}
+
+/* ─── Responsive nav ─────────────────────────────────────────────────────── */
+@media (max-width: 960px) {
+  .desktop-nav { display: none !important; }
+  .mobile-menu-btn { display: block !important; }
+}
+
+/* ─── Portfolio filter buttons ──────────────────────────────────────────── */
+.filter-btn {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+  padding: 8px 18px;
+  border-radius: 30px;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-height: 36px;
+  white-space: nowrap;
+  line-height: 1;
+}
+.filter-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37,81,106,0.15);
+}
+.filter-btn:active {
+  transform: translateY(0);
+}
+
+/* ─── Form inputs (contact & internship forms) ──────────────────────────── */
+.form-input {
+  width: 100%;
+  padding: 13px 16px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: var(--color-dark);
+  background: #fff;
+  border: 1.5px solid rgba(37,81,106,0.18);
+  border-radius: 10px;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  line-height: 1.5;
+}
+.form-input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(37,81,106,0.1);
+}
+.form-input::placeholder {
+  color: rgba(37,81,106,0.35);
+  font-size: 14px;
+}
+.form-input:invalid:not(:placeholder-shown) {
+  border-color: #e53e3e;
+}
+select.form-input {
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2325516A' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 16px;
+  padding-right: 40px;
+}
+textarea.form-input {
+  resize: vertical;
+  min-height: 110px;
+}
+
+/* ─── Internship form upload zone ─────────────────────────────────────── */
+.upload-zone {
+  border: 2px dashed rgba(37,81,106,0.2);
+  border-radius: 10px;
+  padding: 20px 16px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: #fafbfc;
+  min-height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.upload-zone:hover {
+  border-color: var(--color-primary);
+  background: rgba(37,81,106,0.03);
+}
+
+/* ─── Hover card invert (replaces querySelectorAll color mutation) ────────── */
+.hover-card-invert { transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease; }
+.hover-card-invert.hovered { background: var(--color-primary) !important; transform: translateY(-4px); box-shadow: 0 12px 30px rgba(37,81,106,0.2); }
+.hover-card-invert.hovered * { color: #fff !important; transition: color 0.3s ease; }
+
+.community-hover-card { transition: background 0.3s ease; }
+.community-hover-card.hovered { background: var(--color-primary) !important; }
+.community-hover-card.hovered * { color: #fff !important; transition: color 0.3s ease; }
+
+/* ─── About page: Why Different grid responsive ──────────────────────────── */
+@media (max-width: 960px) {
+  .why-diff-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .community-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+@media (max-width: 600px) {
+  .why-diff-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .community-grid {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+  }
+  .community-card {
+    padding: 16px 18px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .community-card-icon {
+    justify-content: flex-start !important;
+    margin-bottom: 0 !important;
+    flex-shrink: 0;
+    padding-top: 2px;
+  }
+  .community-card-body {
+    text-align: left !important;
+  }
+  .community-photos div[style*="grid"] {
+    grid-template-columns: 1fr 1fr !important;
+  }
+  .community-photos div[style*="grid"] > div[style*="grid-column"] {
+    grid-column: auto !important;
+  }
+}

@@ -1,0 +1,1 @@
+import{r as f}from"./index-BABwp41D.js";function p(t,o=1200,r=!1){const[c,s]=f.useState(0);return f.useEffect(()=>{if(!r)return;let n=null,e=null;const a=u=>{n||(n=u);const i=Math.min((u-n)/o,1),l=1-Math.pow(1-i,3);s(Math.floor(l*t)),i<1?e=requestAnimationFrame(a):s(t)};return e=requestAnimationFrame(a),()=>{e&&cancelAnimationFrame(e)}},[r,t,o]),c}export{p as u};
