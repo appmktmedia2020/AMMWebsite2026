@@ -7,7 +7,7 @@ media_folder: public/images/blog
 public_folder: /images/blog
 
 # Site URL for previews
-site_url: https://appalachianmm.com
+site_url: https://teal-starlight-eeaa76.netlify.app
 
 collections:
   - name: blog
@@ -15,7 +15,7 @@ collections:
     folder: src/content/blog
     create: true
     delete: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     preview_path: blog/{{slug}}
     fields:
       - { label: "Title", name: title, widget: string }
