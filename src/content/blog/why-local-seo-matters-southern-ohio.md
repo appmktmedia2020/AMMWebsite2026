@@ -1,14 +1,18 @@
 ---
-title: "Why Local SEO Is the Most Important Investment for Southern Ohio Businesses"
-date: "2025-04-07"
-author: "AMM Team"
-category: "Local SEO"
-excerpt: "If you're a small business in Southern Ohio, Eastern Kentucky, or West Virginia, local SEO isn't optional — it's how customers find you instead of your competitor down the street."
-featuredImage: "/images/blog/local-seo-hero.jpg"
-featuredImageAlt: "Map showing Southern Ohio region with business location pins"
+title: Why Local SEO Is the Most Important Investment for Southern Ohio Businesses
+date: 2025-04-07
+author: AMM Team
+category: Local SEO
+excerpt: If you're a small business in Southern Ohio, Eastern Kentucky, or West
+  Virginia, local SEO isn't optional — it's how customers find you instead of
+  your competitor down the street.
+featuredImage: ""
+featuredImageAlt: Map showing Southern Ohio region with business location pins
 seo:
-  metaTitle: "Why Local SEO Matters for Southern Ohio Businesses | AMM"
-  metaDescription: "Local SEO helps small businesses in Southern Ohio get found on Google. Learn why it matters and how AMM can help your business rank locally."
+  metaTitle: Why Local SEO Matters for Southern Ohio Businesses | AMM
+  metaDescription: Local SEO helps small businesses in Southern Ohio get found on
+    Google. Learn why it matters and how AMM can help your business rank
+    locally.
 ---
 
 If someone in Chillicothe searches "best HVAC company near me" or "dentist in Portsmouth Ohio," will they find your business — or your competitor?
