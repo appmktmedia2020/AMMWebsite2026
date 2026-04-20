@@ -1,14 +1,17 @@
 ---
-title: "5 Signs Your Small Business Website Is Hurting You More Than Helping"
-date: "2025-03-18"
-author: "AMM Team"
-category: "Website Design"
-excerpt: "A bad website doesn't just fail to bring in customers — it actively sends them somewhere else. Here are five warning signs your site might be doing more harm than good."
-featuredImage: ""
+title: 5 Signs Your Small Business Website Is Hurting You More Than Helping
+date: 2025-03-18
+author: AMM Team
+category: Website Design
+excerpt: A bad website doesn't just fail to bring in customers — it actively
+  sends them somewhere else. Here are five warning signs your site might be
+  doing more harm than good.
+featuredImage: /images/blog/logo.png
 featuredImageAlt: ""
 seo:
-  metaTitle: "5 Signs Your Business Website Is Hurting You | AMM"
-  metaDescription: "Is your small business website costing you customers? AMM identifies 5 red flags and what to do about them."
+  metaTitle: 5 Signs Your Business Website Is Hurting You | AMM
+  metaDescription: Is your small business website costing you customers? AMM
+    identifies 5 red flags and what to do about them.
 ---
 
 Most small business owners know they need a website. But there's a big difference between having a website and having one that actually works.
