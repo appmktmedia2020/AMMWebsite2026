@@ -6,7 +6,7 @@ category: Website Design
 excerpt: A bad website doesn't just fail to bring in customers — it actively
   sends them somewhere else. Here are five warning signs your site might be
   doing more harm than good.
-featuredImage: /images/blog/logo.png
+featuredImage: /images/blog/11.webp
 featuredImageAlt: ""
 seo:
   metaTitle: 5 Signs Your Business Website Is Hurting You | AMM
