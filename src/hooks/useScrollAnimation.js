@@ -66,7 +66,7 @@ export function useScrollAnimation() {
  * Observes .anim elements and adds .vis when they enter viewport.
  * Used by all inner-page scroll animations.
  */
-export function useAnim() {
+export function useAnim(deps = []) {
   useEffect(() => {
     const obs = getAnimObserver();
     const els = document.querySelectorAll(".anim:not(.vis)");
@@ -81,5 +81,6 @@ export function useAnim() {
         animObservedCount = 0;
       }
     };
-  }, []);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, deps);
 }

@@ -195,10 +195,10 @@ function PostCard({ post, featured = false }) {
 }
 
 export default function BlogPage() {
-  useAnim();
   const [posts, setPosts] = useState([]);
   const [activeCategory, setActiveCategory] = useState("All");
   const [loading, setLoading] = useState(true);
+  useAnim([posts, activeCategory]);
 
   useEffect(() => {
     getAllPosts()
