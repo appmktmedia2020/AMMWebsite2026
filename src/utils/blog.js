@@ -3,55 +3,25 @@
 // import.meta.glob. No build step or external CMS API needed at runtime —
 // posts are bundled at build time and served as static assets.
 
-/**
- * Parse YAML front matter from a markdown string.
- * Returns { frontmatter: {}, content: "..." }
- */
+import yaml from "js-yaml";
+
 function parseFrontmatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) return { frontmatter: {}, content: raw };
 
-  const yamlStr = match[1];
-  const content = match[2];
+  let frontmatter = {};
+  try {
+    frontmatter = yaml.load(match[1]) || {};
+  } catch (err) {
+    console.error("Frontmatter parse error:", err);
+  }
 
-  const frontmatter = {};
-  let currentKey = null;
-  let inObject = false;
-  let objectKey = null;
+  // yaml.load may parse dates as Date objects when unquoted (YYYY-MM-DD)
+  if (frontmatter.date instanceof Date) {
+    frontmatter.date = frontmatter.date.toISOString().slice(0, 10);
+  }
 
-  yamlStr.split("\n").forEach((line) => {
-    // Nested object (e.g., seo:)
-    if (/^\w.*:$/.test(line.trim())) {
-      currentKey = line.trim().replace(":", "");
-      frontmatter[currentKey] = {};
-      inObject = true;
-      objectKey = currentKey;
-      return;
-    }
-    // Nested object property
-    if (inObject && /^\s{2}/.test(line)) {
-      const nestedQuoted = line.trim().match(/^(\w+):\s*"(.*)"\s*$/);
-      const nested = nestedQuoted || line.trim().match(/^(\w+):\s*(.*?)\s*$/);
-      if (nested) {
-        frontmatter[objectKey][nested[1]] = nested[2];
-      }
-      return;
-    }
-    inObject = false;
-
-    // Handle quoted values (preserves colons inside quotes)
-    const quotedMatch = line.match(/^(\w+):\s*"(.*)"\s*$/);
-    if (quotedMatch) {
-      frontmatter[quotedMatch[1]] = quotedMatch[2];
-      return;
-    }
-    const kvMatch = line.match(/^(\w+):\s*(.*?)\s*$/);
-    if (kvMatch) {
-      frontmatter[kvMatch[1]] = kvMatch[2];
-    }
-  });
-
-  return { frontmatter, content: content.trim() };
+  return { frontmatter, content: match[2].trim() };
 }
 
 /**
