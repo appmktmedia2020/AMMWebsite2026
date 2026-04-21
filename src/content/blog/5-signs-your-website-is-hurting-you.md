@@ -13,7 +13,6 @@ seo:
   metaDescription: Is your small business website costing you customers? AMM
     identifies 5 red flags and what to do about them.
 ---
-
 Most small business owners know they need a website. But there's a big difference between having a website and having one that actually works.
 
 A poorly built site doesn't just sit there doing nothing — it actively makes people less likely to call you. Here are five signs it might be time for a serious update.
@@ -46,7 +45,7 @@ If your website doesn't make that path obvious and easy, people won't do it. Eve
 
 If changing your hours, adding a service, or posting a photo requires calling a developer and waiting a week, that's a problem. Your website should be a living, active representation of your business — not a digital brochure frozen in time.
 
----
+- - -
 
 At AMM, we build custom websites for businesses across Southern Ohio, Eastern Kentucky, and West Virginia. Not templates — real, coded websites built around how your business actually works.
 
